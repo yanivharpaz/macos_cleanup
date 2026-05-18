@@ -1,0 +1,2 @@
+# No third-party Python packages are required.
+# mac-storage-audit.py uses only the Python standard library and macOS/BSD `du`.
