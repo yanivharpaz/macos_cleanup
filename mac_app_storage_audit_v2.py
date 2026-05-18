@@ -59,6 +59,48 @@ CACHEY_LEAF_PATTERNS = [
     "logs", "crashpad", "crashreports",
 ]
 
+CACHE_DESCENDANT_SCAN_DEPTH = 5
+
+BY_APP_FIELDS = [
+    "app",
+    "bundle_id",
+    "app_bundle",
+    "app_bundle_kb",
+    "cache_like",
+    "cache_like_kb",
+    "support_container",
+    "support_container_kb",
+    "total_related",
+    "total_related_kb",
+    "candidate_count",
+    "ambiguous_path_count",
+    "ambiguous_paths",
+    "path",
+    "matched_library_paths",
+]
+
+MATCHED_PATH_FIELDS = [
+    "app",
+    "bundle_id",
+    "kind",
+    "size",
+    "size_kb",
+    "reason",
+    "path",
+    "also_matched_by",
+]
+
+LARGE_DIR_FIELDS = [
+    "kind",
+    "size",
+    "size_kb",
+    "root",
+    "depth",
+    "path",
+    "nested_under",
+    "rollup_parent",
+]
+
 
 def is_relative_to(path: Path, parent: Path) -> bool:
     try:
@@ -398,7 +440,7 @@ def summarize_app_paths(app: AppInfo) -> Tuple[int, int, List[Tuple[Path, str, i
             details.append((parent, "cache-like", parent_kb, cand.reason))
             continue
 
-        child_caches = cache_like_descendants(parent, max_depth=2)
+        child_caches = cache_like_descendants(parent, max_depth=CACHE_DESCENDANT_SCAN_DEPTH)
         child_cache_kb = 0
         for child in child_caches:
             kb = SIZE_CACHE.du_kb(child)
@@ -418,11 +460,10 @@ def summarize_app_paths(app: AppInfo) -> Tuple[int, int, List[Tuple[Path, str, i
     return cache_kb, support_kb, details
 
 
-def write_csv(path: Path, rows: List[Dict[str, str]]) -> None:
-    if not rows:
-        return
+def write_csv(path: Path, rows: List[Dict[str, str]], fieldnames: List[str]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=list(rows[0].keys()))
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(rows)
 
@@ -608,16 +649,19 @@ def main() -> int:
     )
 
     prefix = Path(args.csv_prefix)
-    write_csv(prefix.with_name(prefix.name + "_by_app.csv"), by_app_rows)
-    write_csv(prefix.with_name(prefix.name + "_matched_paths.csv"), path_rows)
-    write_csv(prefix.with_name(prefix.name + "_large_library_dirs_raw.csv"), raw_dirs)
-    write_csv(prefix.with_name(prefix.name + "_large_library_dirs_specific.csv"), specific_dirs)
+    output_paths = [
+        (prefix.with_name(prefix.name + "_by_app.csv"), by_app_rows, BY_APP_FIELDS),
+        (prefix.with_name(prefix.name + "_matched_paths.csv"), path_rows, MATCHED_PATH_FIELDS),
+        (prefix.with_name(prefix.name + "_large_library_dirs_raw.csv"), raw_dirs, LARGE_DIR_FIELDS),
+        (prefix.with_name(prefix.name + "_large_library_dirs_specific.csv"), specific_dirs, LARGE_DIR_FIELDS),
+    ]
+
+    for output_path, rows, fieldnames in output_paths:
+        write_csv(output_path, rows, fieldnames)
 
     print("\nCSV written:")
-    print(f"  {prefix.name}_by_app.csv")
-    print(f"  {prefix.name}_matched_paths.csv")
-    print(f"  {prefix.name}_large_library_dirs_raw.csv")
-    print(f"  {prefix.name}_large_library_dirs_specific.csv")
+    for output_path, _rows, _fieldnames in output_paths:
+        print(f"  {output_path}")
     if SIZE_CACHE.errors:
         print(f"\nSome paths could not be sized: {len(SIZE_CACHE.errors)}. This is usually permissions-related.")
     print("\nNothing was deleted.")
