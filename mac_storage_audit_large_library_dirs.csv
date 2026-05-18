@@ -1,0 +1,1485 @@
+kind,size,size_kb,path
+support/container,14.2 GiB,14849788,/Users/yaniv/Library/Application Support/Google
+support/container,8.2 GiB,8579580,/Users/yaniv/Library/Application Support/Google/Chrome
+support/container,4.6 GiB,4801208,/Users/yaniv/Library/Application Support/Google/Chrome Canary
+cache-like,3.2 GiB,3395556,/Users/yaniv/Library/Caches/Google
+cache-like,3.2 GiB,3375888,/Users/yaniv/Library/Caches/Google/Chrome
+support/container,2.3 GiB,2397352,/Users/yaniv/Library/Application Support/rancher-desktop
+support/container,2.3 GiB,2383464,/Users/yaniv/Library/Application Support/rancher-desktop/lima
+support/container,1.5 GiB,1579396,/Users/yaniv/Library/Application Support/BraveSoftware
+support/container,1.5 GiB,1579396,/Users/yaniv/Library/Application Support/BraveSoftware/Brave-Browser
+support/container,1.5 GiB,1579224,/Users/yaniv/Library/Application Support/Microsoft Edge
+support/container,1.5 GiB,1533480,/Users/yaniv/Library/Application Support/com.apple.wallpaper
+support/container,1.5 GiB,1533476,/Users/yaniv/Library/Application Support/com.apple.wallpaper/aerials
+support/container,1.4 GiB,1468996,/Users/yaniv/Library/Application Support/Google/GoogleUpdater
+cache-like,1.4 GiB,1456260,/Users/yaniv/Library/Caches/Arc
+cache-like,1.4 GiB,1451620,/Users/yaniv/Library/Caches/Arc/User Data
+support/container,1.3 GiB,1408128,/Users/yaniv/Library/Application Support/Microsoft
+support/container,1.3 GiB,1408124,/Users/yaniv/Library/Application Support/Microsoft/EdgeUpdater
+cache-like,1.2 GiB,1242420,/Users/yaniv/Library/Caches/rancher-desktop-updater
+support/container,1.1 GiB,1128480,/Users/yaniv/Library/Application Support/Code - Insiders
+support/container,1.0 GiB,1071516,/Users/yaniv/Library/Application Support/Microsoft Edge/Default
+support/container,913.2 MiB,935160,/Users/yaniv/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram
+support/container,898.5 MiB,920104,/Users/yaniv/Library/Application Support/Code - Insiders/CachedExtensionVSIXs
+cache-like,792.0 MiB,811016,/Users/yaniv/Library/Caches/com.openai.codex
+cache-like,791.2 MiB,810152,/Users/yaniv/Library/Caches/com.openai.codex/org.sparkle-project.Sparkle
+support/container,781.7 MiB,800472,/Users/yaniv/Library/Application Support/Comet
+support/container,759.7 MiB,777976,/Users/yaniv/Library/Group Containers/UBF8T346G9.Office
+support/container,697.5 MiB,714212,/Users/yaniv/Library/Application Support/Code
+cache-like,671.7 MiB,687804,/Users/yaniv/Library/Caches/com.microsoft.VSCodeInsiders.ShipIt
+cache-like,671.7 MiB,687788,/Users/yaniv/Library/Caches/com.microsoft.VSCodeInsiders.ShipIt/update.yCeWixl
+cache-like,623.9 MiB,638924,/Users/yaniv/Library/Caches/com.microsoft.VSCode.ShipIt
+cache-like,623.9 MiB,638864,/Users/yaniv/Library/Caches/com.microsoft.VSCode.ShipIt/update.Ji1uvg1
+cache-like,606.7 MiB,621212,/Users/yaniv/Library/Caches/rancher-desktop-updater/pending
+support/container,606.1 MiB,620688,/Users/yaniv/Library/Group Containers/group.net.whatsapp.WhatsApp.shared
+cache-like,577.4 MiB,591248,/Users/yaniv/Library/Caches/Homebrew
+support/container,566.8 MiB,580436,/Users/yaniv/Library/Application Support/Comet/Default
+cache-like,504.3 MiB,516404,/Users/yaniv/Library/Caches/Homebrew/downloads
+support/container,492.9 MiB,504764,/Users/yaniv/Library/Application Support/Arc
+support/container,485.4 MiB,497048,/Users/yaniv/Library/Application Support/Arc/User Data
+cache-like,483.4 MiB,495024,/Users/yaniv/Library/Caches/SiriTTS
+support/container,477.9 MiB,489336,/Users/yaniv/Library/Containers/com.apple.mediaanalysisd
+cache-like,398.8 MiB,408340,/Users/yaniv/Library/Caches/Microsoft Edge
+cache-like,398.8 MiB,408340,/Users/yaniv/Library/Caches/Microsoft Edge/Default
+cache-like,394.3 MiB,403784,/Users/yaniv/Library/Caches/Firefox
+cache-like,394.3 MiB,403784,/Users/yaniv/Library/Caches/Firefox/Profiles
+support/container,372.2 MiB,381112,/Users/yaniv/Library/Application Support/Code/CachedExtensionVSIXs
+support/container,331.1 MiB,338996,/Users/yaniv/Library/Application Support/zoom.us
+cache-like,300.7 MiB,307928,/Users/yaniv/Library/Caches/com.apple.callintelligenced
+cache-like,300.7 MiB,307928,/Users/yaniv/Library/Caches/com.apple.callintelligenced/com.apple.e5rt.e5bundlecache
+cache-like,300.7 MiB,307928,/Users/yaniv/Library/Caches/com.apple.textunderstandingd
+cache-like,300.7 MiB,307928,/Users/yaniv/Library/Caches/com.apple.textunderstandingd/com.apple.e5rt.e5bundlecache
+cache-like,261.3 MiB,267600,/Users/yaniv/Library/Caches/SiriTTS/BNNSModels
+support/container,219.0 MiB,224260,/Users/yaniv/Library/Containers/net.whatsapp.WhatsApp
+support/container,198.2 MiB,202996,/Users/yaniv/Library/Containers/com.apple.geod
+cache-like,193.5 MiB,198156,/Users/yaniv/Library/Caches/com.oracle.java.JavaAppletPlugin
+cache-like,193.5 MiB,198156,/Users/yaniv/Library/Caches/com.oracle.java.JavaAppletPlugin/org.sparkle-project.Sparkle
+cache-like,183.7 MiB,188108,/Users/yaniv/Library/Caches/rancher-desktop
+cache-like,183.7 MiB,188096,/Users/yaniv/Library/Caches/rancher-desktop/k3s
+support/container,176.7 MiB,180900,/Users/yaniv/Library/Application Support/Microsoft Edge/component_crx_cache
+support/container,176.4 MiB,180612,/Users/yaniv/Library/Application Support/com.operasoftware.Opera
+support/container,169.1 MiB,173144,/Users/yaniv/Library/Application Support/zoom.us/asr
+support/container,168.6 MiB,172644,/Users/yaniv/Library/Application Support/Microsoft Edge/ProvenanceData
+support/container,162.0 MiB,165848,/Users/yaniv/Library/Application Support/zoom.us/data
+support/container,158.5 MiB,162328,/Users/yaniv/Library/Application Support/Code/Cache
+cache-like,157.5 MiB,161292,/Users/yaniv/Library/Caches/BraveSoftware
+cache-like,157.5 MiB,161292,/Users/yaniv/Library/Caches/BraveSoftware/Brave-Browser
+cache-like,156.0 MiB,159716,/Users/yaniv/Library/Caches/com.operasoftware.Opera
+cache-like,156.0 MiB,159716,/Users/yaniv/Library/Caches/com.operasoftware.Opera/Default
+support/container,154.1 MiB,157748,/Users/yaniv/Library/Containers/com.apple.wallpaper.extension.image
+cache-like,148.4 MiB,151964,/Users/yaniv/Library/Caches/Comet
+cache-like,148.4 MiB,151964,/Users/yaniv/Library/Caches/Comet/Default
+cache-like,145.2 MiB,148636,/Users/yaniv/Library/Caches/company.thebrowser.dia
+cache-like,144.7 MiB,148172,/Users/yaniv/Library/Caches/company.thebrowser.dia/ModelFileCache
+support/container,138.8 MiB,142080,/Users/yaniv/Library/Application Support/Code - Insiders/blob_storage
+support/container,134.5 MiB,137744,/Users/yaniv/Library/Application Support/com.openai.atlas
+support/container,132.0 MiB,135148,/Users/yaniv/Library/Application Support/com.openai.atlas/browser-data
+support/container,127.0 MiB,130004,/Users/yaniv/Library/Application Support/Dia
+support/container,119.6 MiB,122448,/Users/yaniv/Library/Application Support/Dia/User Data
+support/container,112.8 MiB,115488,/Users/yaniv/Library/Containers/ru.keepcoder.Telegram
+support/container,105.5 MiB,108080,/Users/yaniv/Library/Containers/com.microsoft.Word
+support/container,104.3 MiB,106852,/Users/yaniv/Library/Containers/com.microsoft.Outlook
+support/container,91.4 MiB,93580,/Users/yaniv/Library/Containers/com.apple.photoanalysisd
+support/container,91.0 MiB,93200,/Users/yaniv/Library/Application Support/Code/CachedData
+support/container,84.9 MiB,86948,/Users/yaniv/Library/Containers/com.apple.wallpaper.agent
+support/container,83.1 MiB,85056,/Users/yaniv/Library/Application Support/Microsoft Edge/extensions_crx_cache
+support/container,82.8 MiB,84820,/Users/yaniv/Library/Application Support/com.operasoftware.Opera/Default
+support/container,79.2 MiB,81096,/Users/yaniv/Library/Containers/com.apple.iBooksX
+support/container,76.1 MiB,77936,/Users/yaniv/Library/Application Support/Firefox
+support/container,75.3 MiB,77076,/Users/yaniv/Library/Application Support/Firefox/Profiles
+support/container,75.1 MiB,76908,/Users/yaniv/Library/Application Support/Comet/extensions_crx_cache
+cache-like,59.2 MiB,60584,/Users/yaniv/Library/Caches/.omb
+cache-like,59.1 MiB,60476,/Users/yaniv/Library/Caches/.omb/logs
+cache-like,55.0 MiB,56356,/Users/yaniv/Library/Caches/GeoServices
+cache-like,53.9 MiB,55204,/Users/yaniv/Library/Caches/GeoServices/Resources
+support/container,53.4 MiB,54712,/Users/yaniv/Library/Application Support/Code/WebStorage
+cache-like,52.4 MiB,53684,/Users/yaniv/Library/Caches/com.apple.helpd
+support/container,51.8 MiB,53076,/Users/yaniv/Library/Application Support/Cursor
+cache-like,48.2 MiB,49388,/Users/yaniv/Library/Caches/com.apple.tipsd
+support/container,47.1 MiB,48272,/Users/yaniv/Library/Application Support/Comet/component_crx_cache
+cache-like,46.4 MiB,47528,/Users/yaniv/Library/Caches/Homebrew/api
+cache-like,42.1 MiB,43144,/Users/yaniv/Library/Caches/com.apple.tipsd/fsCachedData
+support/container,38.9 MiB,39792,/Users/yaniv/Library/Application Support/Cursor/CachedData
+support/container,38.5 MiB,39444,/Users/yaniv/Library/Containers/com.apple.AvatarUI.AvatarPickerMemojiPicker
+support/container,35.6 MiB,36416,/Users/yaniv/Library/Containers/com.apple.AppStore
+support/container,29.5 MiB,30164,/Users/yaniv/Library/Application Support/OneDrive
+support/container,29.5 MiB,30164,/Users/yaniv/Library/Application Support/OneDrive/settings
+cache-like,28.0 MiB,28668,/Users/yaniv/Library/Caches/com.apple.e5rt.e5bundlecache
+cache-like,28.0 MiB,28668,/Users/yaniv/Library/Caches/com.apple.e5rt.e5bundlecache/25E253
+support/container,27.6 MiB,28236,/Users/yaniv/Library/Application Support/Code - Insiders/Cache
+support/container,25.5 MiB,26068,/Users/yaniv/Library/Containers/com.microsoft.Excel
+support/container,22.6 MiB,23172,/Users/yaniv/Library/Application Support/Comet/WasmTtsEngine
+support/container,20.9 MiB,21444,/Users/yaniv/Library/Application Support/com.operasoftware.Opera/Safe Browsing
+support/container,19.6 MiB,20028,/Users/yaniv/Library/Application Support/Slack
+cache-like,19.2 MiB,19668,/Users/yaniv/Library/Caches/Google/Chrome Canary
+cache-like,19.1 MiB,19524,/Users/yaniv/Library/Caches/com.apple.helpd/Generated
+support/container,18.4 MiB,18796,/Users/yaniv/Library/Application Support/com.operasoftware.Opera/component_crx_cache
+cache-like,18.3 MiB,18772,/Users/yaniv/Library/Caches/Dia
+cache-like,18.3 MiB,18772,/Users/yaniv/Library/Caches/Dia/User Data
+support/container,18.1 MiB,18536,/Users/yaniv/Library/Application Support/com.operasoftware.Opera/adblocker_data
+support/container,17.2 MiB,17600,/Users/yaniv/Library/Application Support/Comet/WidevineCdm
+support/container,16.9 MiB,17284,/Users/yaniv/Library/Application Support/Comet/Safe Browsing
+support/container,16.7 MiB,17132,/Users/yaniv/Library/Application Support/Microsoft Edge/WidevineCdm
+support/container,16.7 MiB,17116,/Users/yaniv/Library/Application Support/com.operasoftware.Opera/WidevineCdm
+cache-like,16.4 MiB,16776,/Users/yaniv/Library/Caches/com.apple.parsecd
+support/container,15.4 MiB,15800,/Users/yaniv/Library/Application Support/Code - Insiders/WebStorage
+cache-like,15.1 MiB,15504,/Users/yaniv/Library/Caches/com.apple.helpd/fsCachedData
+cache-like,14.5 MiB,14872,/Users/yaniv/Library/Caches/Homebrew/bootsnap
+support/container,14.5 MiB,14868,/Users/yaniv/Library/Application Support/Microsoft Edge/Edge Wallet
+support/container,13.6 MiB,13880,/Users/yaniv/Library/Application Support/rancher-desktop/electron
+cache-like,13.1 MiB,13384,/Users/yaniv/Library/Caches/com.openai.atlas
+support/container,13.0 MiB,13268,/Users/yaniv/Library/Group Containers/group.com.apple.CoreSpeech
+cache-like,12.8 MiB,13116,/Users/yaniv/Library/Caches/com.openai.atlas/browser-data
+support/container,12.2 MiB,12508,/Users/yaniv/Library/Application Support/Microsoft Edge/GraphiteDawnCache
+cache-like,12.2 MiB,12480,/Users/yaniv/Library/Caches/com.apple.TV
+support/container,11.8 MiB,12128,/Users/yaniv/Library/Containers/com.oraclecorp.int.UnifiedLogin
+cache-like,11.6 MiB,11884,/Users/yaniv/Library/Caches/com.apple.helpd/NSFileProtectionCompleteUntilFirstUserAuthentication
+cache-like,11.5 MiB,11768,/Users/yaniv/Library/Caches/com.microsoft.SharePoint-mac
+support/container,11.4 MiB,11708,/Users/yaniv/Library/Application Support/Code - Insiders/CachedData
+cache-like,10.6 MiB,10840,/Users/yaniv/Library/Caches/com.apple.CloudTelemetry
+cache-like,10.6 MiB,10840,/Users/yaniv/Library/Caches/com.apple.CloudTelemetry/XPCService
+cache-like,10.5 MiB,10796,/Users/yaniv/Library/Logs/OneDrive
+cache-like,10.2 MiB,10492,/Users/yaniv/Library/Caches/com.apple.appstoreagent
+cache-like,9.7 MiB,9972,/Users/yaniv/Library/Caches/SharedImageCache
+cache-like,9.3 MiB,9568,/Users/yaniv/Library/Caches/com.vmware.hub.mac
+support/container,9.2 MiB,9468,/Users/yaniv/Library/Containers/com.apple.stocks.widget
+support/container,9.2 MiB,9408,/Users/yaniv/Library/Application Support/Slack/logs
+cache-like,9.1 MiB,9332,/Users/yaniv/Library/Caches/us.zoom.xos
+cache-like,9.0 MiB,9264,/Users/yaniv/Library/Logs/OneDrive/ListSync
+cache-like,9.0 MiB,9252,/Users/yaniv/Library/Caches/us.zoom.xos/WebKit
+support/container,8.9 MiB,9080,/Users/yaniv/Library/Application Support/Code/blob_storage
+support/container,8.4 MiB,8572,/Users/yaniv/Library/Application Support/Codex
+cache-like,8.2 MiB,8428,/Users/yaniv/Library/Caches/icloudmailagent
+cache-like,8.2 MiB,8388,/Users/yaniv/Library/Caches/com.apple.TV/fsCachedData
+support/container,8.0 MiB,8192,/Users/yaniv/Library/Application Support/Microsoft Edge/BrowserMetrics
+support/container,7.7 MiB,7848,/Users/yaniv/Library/Application Support/Adobe
+support/container,7.6 MiB,7732,/Users/yaniv/Library/Application Support/Comet/OnDeviceHeadSuggestModel
+support/container,7.1 MiB,7268,/Users/yaniv/Library/Application Support/Rancher Desktop
+support/container,6.9 MiB,7096,/Users/yaniv/Library/Application Support/Adobe/Acrobat
+support/container,6.8 MiB,6924,/Users/yaniv/Library/Application Support/Comet/GraphiteDawnCache
+support/container,6.8 MiB,6916,/Users/yaniv/Library/Containers/com.apple.AppleMediaServicesUI.UtilityExtension
+support/container,6.6 MiB,6740,/Users/yaniv/Library/Containers/com.apple.mediastream.mstreamd
+support/container,6.6 MiB,6736,/Users/yaniv/Library/Application Support/Comet/Crashpad
+cache-like,6.5 MiB,6652,/Users/yaniv/Library/Caches/com.microsoft.SharePoint-mac/fsCachedData
+cache-like,6.4 MiB,6600,/Users/yaniv/Library/Caches/com.openai.chat
+cache-like,6.4 MiB,6568,/Users/yaniv/Library/Caches/com.apple.amsengagementd
+cache-like,6.2 MiB,6372,/Users/yaniv/Library/Caches/com.apple.ctcategories.service
+cache-like,6.2 MiB,6364,/Users/yaniv/Library/Caches/com.apple.AppleMediaServices
+cache-like,6.1 MiB,6296,/Users/yaniv/Library/Caches/icloudmailagent/com.apple.e5rt.e5bundlecache
+support/container,6.1 MiB,6280,/Users/yaniv/Library/Containers/com.apple.Preview
+support/container,6.1 MiB,6200,/Users/yaniv/Library/Group Containers/group.com.apple.icloudMCCKit
+support/container,6.0 MiB,6144,/Users/yaniv/Library/Application Support/com.operasoftware.Opera/GraphiteDawnCache
+support/container,5.9 MiB,6012,/Users/yaniv/Library/Application Support/Codex/Cache
+support/container,5.8 MiB,5960,/Users/yaniv/Library/Containers/com.apple.AMPArtworkAgent
+support/container,5.6 MiB,5704,/Users/yaniv/Library/Application Support/Cursor/GPUCache
+support/container,5.6 MiB,5704,/Users/yaniv/Library/Application Support/Rancher Desktop/GPUCache
+support/container,5.6 MiB,5704,/Users/yaniv/Library/Application Support/Code/GPUCache
+support/container,5.6 MiB,5704,/Users/yaniv/Library/Application Support/Code - Insiders/GPUCache
+support/container,5.6 MiB,5704,/Users/yaniv/Library/Application Support/Slack/GPUCache
+cache-like,5.4 MiB,5496,/Users/yaniv/Library/Caches/com.apple.itunescloudd
+cache-like,5.3 MiB,5408,/Users/yaniv/Library/Caches/com.apple.python
+support/container,5.2 MiB,5372,/Users/yaniv/Library/Application Support/Microsoft Edge/Edge Shopping
+support/container,5.2 MiB,5316,/Users/yaniv/Library/Containers/com.apple.weather.widget
+support/container,5.1 MiB,5264,/Users/yaniv/Library/Containers/com.apple.photolibraryd
+support/container,5.1 MiB,5248,/Users/yaniv/Library/Application Support/com.apple.ProtectedCloudStorage
+cache-like,5.0 MiB,5124,/Users/yaniv/Library/Caches/com.apple.python/Library
+support/container,5.0 MiB,5116,/Users/yaniv/Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension
+support/container,5.0 MiB,5080,/Users/yaniv/Library/Containers/com.apple.systempreferences.AppleIDSettings
+cache-like,4.5 MiB,4640,/Users/yaniv/Library/Caches/Arc/EaselImagesCache
+cache-like,4.3 MiB,4372,/Users/yaniv/Library/Caches/com.apple.storekitagent
+cache-like,4.2 MiB,4252,/Users/yaniv/Library/Caches/com.apple.FeatureAccessAgent
+cache-like,4.1 MiB,4188,/Users/yaniv/Library/Caches/com.microsoft.SyncReporter
+support/container,4.1 MiB,4152,/Users/yaniv/Library/Application Support/com.openai.chat
+cache-like,4.0 MiB,4136,/Users/yaniv/Library/HTTPStorages/com.apple.tipsd
+support/container,4.0 MiB,4096,/Users/yaniv/Library/Application Support/Comet/BrowserMetrics
+support/container,4.0 MiB,4088,/Users/yaniv/Library/Application Support/com.openai.chat/conversations-v3-7fb09b21-c400-4a68-a7f3-1f94a035df42
+cache-like,4.0 MiB,4052,/Users/yaniv/Library/Caches/com.apple.itunescloudd/fsCachedData
+cache-like,3.8 MiB,3932,/Users/yaniv/Library/Caches/com.apple.Spotlight
+cache-like,3.8 MiB,3844,/Users/yaniv/Library/Caches/com.apple.amsengagementd/fsCachedData
+cache-like,3.7 MiB,3784,/Users/yaniv/Library/Caches/statsig-cache
+cache-like,3.7 MiB,3784,/Users/yaniv/Library/Caches/statsig-cache/client-qs8mEvZTRkamsK5AqwsBaPfGX3CwPOs4it0lVlPGKcu
+support/container,3.6 MiB,3712,/Users/yaniv/Library/Application Support/LM Studio
+support/container,3.6 MiB,3692,/Users/yaniv/Library/Group Containers/2BBY89MBSN.dev.warp
+cache-like,3.6 MiB,3680,/Users/yaniv/Library/Caches/com.apple.amsaccountsd
+cache-like,3.5 MiB,3580,/Users/yaniv/Library/Caches/com.apple.iTunes
+cache-like,3.5 MiB,3580,/Users/yaniv/Library/Caches/com.apple.iTunes/CommerceRequestCache
+support/container,3.4 MiB,3480,/Users/yaniv/Library/Application Support/Comet/CertificateRevocation
+cache-like,3.2 MiB,3324,/Users/yaniv/Library/Caches/com.apple.iCloudNotificationAgent
+cache-like,3.2 MiB,3312,/Users/yaniv/Library/Caches/com.apple.managedappdistributionagent
+cache-like,3.2 MiB,3312,/Users/yaniv/Library/Caches/com.apple.bookdatastored
+cache-like,3.2 MiB,3264,/Users/yaniv/Library/Caches/com.apple.akd
+cache-like,3.2 MiB,3236,/Users/yaniv/Library/Caches/com.microsoft.autoupdate.fba
+support/container,3.1 MiB,3176,/Users/yaniv/Library/Group Containers/group.com.apple.siri.sirisuggestions
+cache-like,3.1 MiB,3172,/Users/yaniv/Library/Caches/familycircled
+cache-like,3.1 MiB,3164,/Users/yaniv/Library/Caches/com.microsoft.OneDriveStandaloneUpdater
+cache-like,3.1 MiB,3160,/Users/yaniv/Library/Caches/com.microsoft.edgemac
+cache-like,3.1 MiB,3124,/Users/yaniv/Library/HTTPStorages/com.openai.chat
+cache-like,3.1 MiB,3124,/Users/yaniv/Library/HTTPStorages/com.openai.atlas
+cache-like,3.1 MiB,3124,/Users/yaniv/Library/HTTPStorages/com.microsoft.autoupdate.fba
+cache-like,3.1 MiB,3124,/Users/yaniv/Library/HTTPStorages/com.apple.appstoreagent
+cache-like,3.1 MiB,3124,/Users/yaniv/Library/HTTPStorages/com.apple.itunescloudd
+cache-like,3.0 MiB,3112,/Users/yaniv/Library/HTTPStorages/com.apple.storekitagent
+cache-like,3.0 MiB,3112,/Users/yaniv/Library/HTTPStorages/com.adobe.ARMDCHelper
+cache-like,3.0 MiB,3112,/Users/yaniv/Library/HTTPStorages/com.microsoft.SharePoint-mac
+cache-like,3.0 MiB,3112,/Users/yaniv/Library/HTTPStorages/com.microsoft.EdgeUpdater
+cache-like,3.0 MiB,3112,/Users/yaniv/Library/HTTPStorages/com.apple.amsondevicestoraged
+support/container,2.8 MiB,2900,/Users/yaniv/Library/Application Support/Cursor/logs
+cache-like,2.8 MiB,2824,/Users/yaniv/Library/Logs/Sonos
+cache-like,2.7 MiB,2776,/Users/yaniv/Library/Caches/com.apple.AMPLibraryAgent
+support/container,2.7 MiB,2720,/Users/yaniv/Library/Containers/com.microsoft.rdc.macos
+cache-like,2.6 MiB,2668,/Users/yaniv/Library/Caches/com.vmware.hub.mac/fsCachedData
+support/container,2.5 MiB,2516,/Users/yaniv/Library/Containers/com.apple.iCal.CalendarWidgetExtension
+support/container,2.4 MiB,2472,/Users/yaniv/Library/Application Support/com.operasoftware.Opera/GrShaderCache
+cache-like,2.4 MiB,2452,/Users/yaniv/Library/Caches/askpermissiond
+cache-like,2.3 MiB,2368,/Users/yaniv/Library/Caches/PassKit
+cache-like,2.3 MiB,2360,/Users/yaniv/Library/Caches/PassKit/PassAssetCache
+cache-like,2.3 MiB,2328,/Users/yaniv/Library/Logs/zoom.us
+cache-like,2.3 MiB,2316,/Users/yaniv/Library/Logs/zoom.us/zoom_feedback
+support/container,2.2 MiB,2268,/Users/yaniv/Library/Application Support/Oracle Backup
+support/container,2.2 MiB,2260,/Users/yaniv/Library/Containers/com.apple.Photos
+support/container,2.2 MiB,2252,/Users/yaniv/Library/Application Support/Oracle
+cache-like,2.2 MiB,2216,/Users/yaniv/Library/Caches/com.apple.shazamd
+cache-like,2.2 MiB,2212,/Users/yaniv/Library/Caches/com.apple.amsondevicestoraged
+cache-like,2.2 MiB,2212,/Users/yaniv/Library/Caches/com.microsoft.VSCodeInsiders
+cache-like,2.1 MiB,2188,/Users/yaniv/Library/Caches/com.apple.appstoreagent/fsCachedData
+cache-like,2.1 MiB,2176,/Users/yaniv/Library/Caches/com.apple.nbagent
+cache-like,2.1 MiB,2148,/Users/yaniv/Library/Caches/com.apple.appleaccountd
+cache-like,2.1 MiB,2148,/Users/yaniv/Library/Caches/com.apple.cloudd
+support/container,2.1 MiB,2148,/Users/yaniv/Library/Application Support/com.apple.sbd
+support/container,2.1 MiB,2148,/Users/yaniv/Library/Application Support/com.apple.sbd/97B59967-41D5-4470-A900-EA3D113430A5
+cache-like,2.1 MiB,2132,/Users/yaniv/Library/Caches/com.microsoft.EdgeUpdater
+cache-like,2.1 MiB,2132,/Users/yaniv/Library/Caches/com.microsoft.VSCode
+cache-like,2.1 MiB,2132,/Users/yaniv/Library/Caches/com.adobe.acrobat.AcroPatchInstall
+cache-like,2.1 MiB,2120,/Users/yaniv/Library/Caches/com.apple.geoanalyticsd
+support/container,2.1 MiB,2112,/Users/yaniv/Library/Application Support/com.apple.siri.inference
+cache-like,2.1 MiB,2100,/Users/yaniv/Library/HTTPStorages/com.google.GoogleUpdater
+cache-like,2.1 MiB,2100,/Users/yaniv/Library/HTTPStorages/com.apple.nbagent
+cache-like,2.1 MiB,2100,/Users/yaniv/Library/HTTPStorages/com.apple.amsaccountsd
+cache-like,2.0 MiB,2088,/Users/yaniv/Library/HTTPStorages/com.apple.managedappdistributionagent
+cache-like,2.0 MiB,2088,/Users/yaniv/Library/HTTPStorages/com.googlecode.iterm2
+cache-like,2.0 MiB,2088,/Users/yaniv/Library/HTTPStorages/com.microsoft.SyncReporter
+cache-like,2.0 MiB,2088,/Users/yaniv/Library/HTTPStorages/com.apple.iCloudHelper
+support/container,2.0 MiB,2076,/Users/yaniv/Library/Application Support/Oracle/Oracle Documents
+support/container,2.0 MiB,2072,/Users/yaniv/Library/Application Support/Microsoft Edge/Safe Browsing
+support/container,2.0 MiB,2036,/Users/yaniv/Library/Containers/com.apple.clock.WorldClockWidget
+support/container,2.0 MiB,2032,/Users/yaniv/Library/Application Support/Cursor/User
+support/container,2.0 MiB,2020,/Users/yaniv/Library/Application Support/Slack/IndexedDB
+support/container,1.9 MiB,1984,/Users/yaniv/Library/Application Support/com.operasoftware.Opera/CertificateRevocation
+cache-like,1.9 MiB,1944,/Users/yaniv/Library/Logs/Adobe
+cache-like,1.8 MiB,1852,/Users/yaniv/Library/Caches/com.apple.AppleMediaServices/PaymentSheetsUI
+cache-like,1.7 MiB,1772,/Users/yaniv/Library/Caches/com.apple.storekitagent/fsCachedData
+support/container,1.7 MiB,1704,/Users/yaniv/Library/Application Support/Microsoft Edge/ZxcvbnData
+support/container,1.7 MiB,1692,/Users/yaniv/Library/Application Support/Microsoft Edge/Typosquatting
+support/container,1.6 MiB,1664,/Users/yaniv/Library/Application Support/Comet/ZxcvbnData
+support/container,1.6 MiB,1652,/Users/yaniv/Library/Application Support/com.openai.atlas/statsig
+support/container,1.6 MiB,1636,/Users/yaniv/Library/Application Support/Code/CachedProfilesData
+support/container,1.6 MiB,1608,/Users/yaniv/Library/Application Support/LM Studio/GPUCache
+cache-like,1.5 MiB,1584,/Users/yaniv/Library/Caches/com.apple.AppleMediaServices/Metrics
+support/container,1.5 MiB,1512,/Users/yaniv/Library/Containers/com.apple.podcasts.widget
+support/container,1.4 MiB,1468,/Users/yaniv/Library/Application Support/Code/User
+cache-like,1.4 MiB,1464,/Users/yaniv/Library/Caches/com.apple.passd
+support/container,1.4 MiB,1436,/Users/yaniv/Library/Application Support/Microsoft Edge/ProvenanceDataTensors
+support/container,1.4 MiB,1412,/Users/yaniv/Library/Containers/com.apple.systempreferences.SpotlightIndexExtension
+support/container,1.4 MiB,1412,/Users/yaniv/Library/Containers/com.apple.systempreferences
+support/container,1.4 MiB,1408,/Users/yaniv/Library/Group Containers/UBF8T346G9.com.microsoft.rdc
+support/container,1.3 MiB,1380,/Users/yaniv/Library/Application Support/Code/logs
+cache-like,1.3 MiB,1300,/Users/yaniv/Library/Caches/Animoji
+cache-like,1.3 MiB,1288,/Users/yaniv/Library/Caches/com.apple.Spotlight/com.apple.e5rt.e5bundlecache
+support/container,1.2 MiB,1240,/Users/yaniv/Library/Application Support/Code/Crashpad
+cache-like,1.2 MiB,1236,/Users/yaniv/Library/Caches/com.sonos.macController2
+support/container,1.2 MiB,1180,/Users/yaniv/Library/Application Support/Code - Insiders/CachedProfilesData
+support/container,1.1 MiB,1160,/Users/yaniv/Library/Application Support/com.apple.ap.promotedcontentd
+cache-like,1.1 MiB,1152,/Users/yaniv/Library/Caches/com.apple.ctcategories.service/fsCachedData
+support/container,1.1 MiB,1148,/Users/yaniv/Library/Containers/com.apple.Photos.PhotosReliveWidget
+cache-like,1.1 MiB,1144,/Users/yaniv/Library/Caches/com.apple.amsaccountsd/fsCachedData
+support/container,1.1 MiB,1144,/Users/yaniv/Library/Group Containers/73YQY62QM3.com.displaylink.DisplayLinkShared
+support/container,1.1 MiB,1136,/Users/yaniv/Library/Containers/com.apple.tips
+support/container,1.1 MiB,1132,/Users/yaniv/Library/Containers/com.eltima.cmd1.mas
+support/container,1.1 MiB,1092,/Users/yaniv/Library/Application Support/Comet/OpenCookieDatabase
+support/container,1.1 MiB,1092,/Users/yaniv/Library/Group Containers/group.com.apple.storekit
+support/container,1.1 MiB,1088,/Users/yaniv/Library/Containers/com.apple.mobilephone
+support/container,1.1 MiB,1084,/Users/yaniv/Library/Application Support/Oracle Backup/Cache
+support/container,1.1 MiB,1084,/Users/yaniv/Library/Application Support/Code - Insiders/logs
+cache-like,1.1 MiB,1076,/Users/yaniv/Library/Caches/com.googlecode.iterm2
+cache-like,1.0 MiB,1064,/Users/yaniv/Library/HTTPStorages/com.apple.AMPLibraryAgent
+cache-like,1.0 MiB,1048,/Users/yaniv/Library/Caches/ChatGPTHelper
+support/container,996.0 KiB,996,/Users/yaniv/Library/Application Support/Cursor/CachedProfilesData
+support/container,992.0 KiB,992,/Users/yaniv/Library/Application Support/com.apple.ap.promotedcontentd/APDB
+support/container,960.0 KiB,960,/Users/yaniv/Library/Application Support/Comet/AutofillStates
+cache-like,948.0 KiB,948,/Users/yaniv/Library/Logs/OneDrive/Updater
+cache-like,900.0 KiB,900,/Users/yaniv/Library/Caches/com.apple.AppleMediaServices/Engagement
+cache-like,884.0 KiB,884,/Users/yaniv/Library/Caches/com.apple.AppleMediaServices/com.apple.AppleMediaServicesKit
+cache-like,872.0 KiB,872,/Users/yaniv/Library/HTTPStorages/com.apple.ciphermld
+cache-like,864.0 KiB,864,/Users/yaniv/Library/Caches/com.apple.Family-Settings.extension
+support/container,864.0 KiB,864,/Users/yaniv/Library/Application Support/obs-studio
+cache-like,856.0 KiB,856,/Users/yaniv/Library/Caches/com.apple.AppleMediaServices/private-identifiers
+support/container,832.0 KiB,832,/Users/yaniv/Library/Containers/com.apple.stocks.detailintents
+cache-like,816.0 KiB,816,/Users/yaniv/Library/Caches/com.apple.helpd/NSFileProtectionComplete
+cache-like,816.0 KiB,816,/Users/yaniv/Library/Caches/com.apple.helpd/NSFileProtectionCompleteUnlessOpen
+support/container,800.0 KiB,800,/Users/yaniv/Library/Application Support/Firefox/Profile Groups
+support/container,800.0 KiB,800,/Users/yaniv/Library/Containers/com.apple.AppleAccountUI.AAUIFollowUpExtension
+support/container,780.0 KiB,780,/Users/yaniv/Library/Application Support/Comet/PKIMetadata
+support/container,772.0 KiB,772,/Users/yaniv/Library/Application Support/com.operasoftware.Opera/PKIMetadata
+support/container,760.0 KiB,760,/Users/yaniv/Library/Application Support/Slack/Cache
+cache-like,756.0 KiB,756,/Users/yaniv/Library/WebKit/com.vmware.hub.mac
+cache-like,756.0 KiB,756,/Users/yaniv/Library/WebKit/com.vmware.hub.mac/WebsiteData
+cache-like,744.0 KiB,744,/Users/yaniv/Library/HTTPStorages/com.apple.appleaccountd
+support/container,728.0 KiB,728,/Users/yaniv/Library/Application Support/Adobe/AcroCef
+support/container,724.0 KiB,724,/Users/yaniv/Library/Application Support/networkserviceproxy
+cache-like,704.0 KiB,704,/Users/yaniv/Library/Caches/com.apple.bookassetd
+support/container,704.0 KiB,704,/Users/yaniv/Library/Application Support/com.openai.atlas/conversations-v3-d16322da-45b7-4b7e-a1d9-318b0a3bff67
+cache-like,700.0 KiB,700,/Users/yaniv/Library/Caches/com.apple.donotdisturbd
+support/container,700.0 KiB,700,/Users/yaniv/Library/Application Support/Code - Insiders/User
+cache-like,696.0 KiB,696,/Users/yaniv/Library/WebKit/com.microsoft.edgemac
+cache-like,696.0 KiB,696,/Users/yaniv/Library/WebKit/com.microsoft.edgemac/WebsiteData
+cache-like,680.0 KiB,680,/Users/yaniv/Library/HTTPStorages/com.apple.FeatureAccessAgent
+cache-like,680.0 KiB,680,/Users/yaniv/Library/HTTPStorages/com.microsoft.OneDriveStandaloneUpdater
+cache-like,680.0 KiB,680,/Users/yaniv/Library/HTTPStorages/askpermissiond
+support/container,676.0 KiB,676,/Users/yaniv/Library/Group Containers/243LU875E5.groups.com.apple.podcasts
+cache-like,656.0 KiB,656,/Users/yaniv/Library/Caches/com.github.macadmins.Nudge
+cache-like,652.0 KiB,652,/Users/yaniv/Library/Caches/com.vmware.hub.mac/WebKit
+cache-like,628.0 KiB,628,/Users/yaniv/Library/HTTPStorages/com.apple.helpd
+cache-like,616.0 KiB,616,/Users/yaniv/Library/HTTPStorages/com.apple.shazamd
+support/container,616.0 KiB,616,/Users/yaniv/Library/Application Support/SonosV2
+support/container,612.0 KiB,612,/Users/yaniv/Library/Application Support/Microsoft Edge/SmartScreen
+support/container,612.0 KiB,612,/Users/yaniv/Library/Application Support/com.apple.RemoteManagementAgent
+cache-like,608.0 KiB,608,/Users/yaniv/Library/Caches/com.apple.NewDeviceOutreach
+support/container,608.0 KiB,608,/Users/yaniv/Library/Application Support/com.apple.RemoteManagementAgent/Database
+cache-like,596.0 KiB,596,/Users/yaniv/Library/Caches/Oracle.MacJREInstaller
+cache-like,592.0 KiB,592,/Users/yaniv/Library/Caches/com.apple.appstore
+cache-like,592.0 KiB,592,/Users/yaniv/Library/Caches/com.apple.appstore/CommerceRequestCache
+cache-like,592.0 KiB,592,/Users/yaniv/Library/Caches/com.apple.passd/fsCachedData
+cache-like,588.0 KiB,588,/Users/yaniv/Library/Caches/com.apple.translationd
+cache-like,576.0 KiB,576,/Users/yaniv/Library/WebKit/us.zoom.xos
+cache-like,576.0 KiB,576,/Users/yaniv/Library/WebKit/us.zoom.xos/WebsiteData
+cache-like,552.0 KiB,552,/Users/yaniv/Library/HTTPStorages/company.thebrowser.Browser
+support/container,548.0 KiB,548,/Users/yaniv/Library/Application Support/LM Studio/DawnGraphiteCache
+support/container,548.0 KiB,548,/Users/yaniv/Library/Application Support/LM Studio/DawnWebGPUCache
+support/container,548.0 KiB,548,/Users/yaniv/Library/Application Support/Cursor/DawnGraphiteCache
+support/container,548.0 KiB,548,/Users/yaniv/Library/Application Support/Cursor/DawnWebGPUCache
+support/container,548.0 KiB,548,/Users/yaniv/Library/Application Support/Rancher Desktop/DawnGraphiteCache
+support/container,548.0 KiB,548,/Users/yaniv/Library/Application Support/Rancher Desktop/DawnWebGPUCache
+support/container,548.0 KiB,548,/Users/yaniv/Library/Application Support/Codex/DawnGraphiteCache
+support/container,548.0 KiB,548,/Users/yaniv/Library/Application Support/Codex/GPUCache
+support/container,548.0 KiB,548,/Users/yaniv/Library/Application Support/Codex/DawnWebGPUCache
+support/container,548.0 KiB,548,/Users/yaniv/Library/Application Support/Code/DawnGraphiteCache
+support/container,548.0 KiB,548,/Users/yaniv/Library/Application Support/Code/DawnWebGPUCache
+support/container,548.0 KiB,548,/Users/yaniv/Library/Application Support/Code/DawnCache
+support/container,548.0 KiB,548,/Users/yaniv/Library/Application Support/Oracle Backup/GPUCache
+support/container,548.0 KiB,548,/Users/yaniv/Library/Application Support/Oracle Backup/DawnCache
+support/container,548.0 KiB,548,/Users/yaniv/Library/Application Support/Comet/GrShaderCache
+support/container,548.0 KiB,548,/Users/yaniv/Library/Application Support/Comet/ShaderCache
+support/container,548.0 KiB,548,/Users/yaniv/Library/Application Support/com.operasoftware.Opera/ShaderCache
+support/container,548.0 KiB,548,/Users/yaniv/Library/Application Support/Code - Insiders/DawnGraphiteCache
+support/container,548.0 KiB,548,/Users/yaniv/Library/Application Support/Code - Insiders/DawnWebGPUCache
+support/container,548.0 KiB,548,/Users/yaniv/Library/Application Support/Microsoft Edge/GrShaderCache
+support/container,548.0 KiB,548,/Users/yaniv/Library/Application Support/Microsoft Edge/ShaderCache
+support/container,548.0 KiB,548,/Users/yaniv/Library/Application Support/Slack/DawnGraphiteCache
+support/container,548.0 KiB,548,/Users/yaniv/Library/Application Support/Slack/DawnWebGPUCache
+support/container,548.0 KiB,548,/Users/yaniv/Library/Application Support/Slack/DawnCache
+support/container,540.0 KiB,540,/Users/yaniv/Library/Application Support/com.operasoftware.Opera/themes_backup
+support/container,532.0 KiB,532,/Users/yaniv/Library/Application Support/Microsoft Edge/Autofill
+cache-like,520.0 KiB,520,/Users/yaniv/Library/WebKit/com.mitchellh.ghostty
+cache-like,520.0 KiB,520,/Users/yaniv/Library/WebKit/com.mitchellh.ghostty/WebsiteData
+cache-like,512.0 KiB,512,/Users/yaniv/Library/Caches/com.apple.Spotlight/fsCachedData
+support/container,508.0 KiB,508,/Users/yaniv/Library/Application Support/SonosV2/jffs
+support/container,504.0 KiB,504,/Users/yaniv/Library/Containers/com.apple.PeopleViewService.PeopleWidget-macOS
+cache-like,500.0 KiB,500,/Users/yaniv/Library/HTTPStorages/com.apple.AddressBookSourceSync
+support/container,500.0 KiB,500,/Users/yaniv/Library/Application Support/obs-studio/profiler_data
+support/container,500.0 KiB,500,/Users/yaniv/Library/Application Support/F5 EPI
+cache-like,496.0 KiB,496,/Users/yaniv/Library/Caches/com.apple.proactive.eventtracker
+cache-like,496.0 KiB,496,/Users/yaniv/Library/Caches/com.apple.AMPLibraryAgent/fsCachedData
+cache-like,496.0 KiB,496,/Users/yaniv/Library/Caches/com.apple.feedbacklogger
+cache-like,488.0 KiB,488,/Users/yaniv/Library/HTTPStorages/familycircled
+cache-like,488.0 KiB,488,/Users/yaniv/Library/HTTPStorages/com.apple.Family-Settings.extension
+support/container,488.0 KiB,488,/Users/yaniv/Library/Containers/com.apple.AppleMediaServicesUI.ComposeReviewExtension
+cache-like,472.0 KiB,472,/Users/yaniv/Library/Logs/OneDrive/SyncReporter
+support/container,472.0 KiB,472,/Users/yaniv/Library/Containers/com.apple.Safari.SafariWidgetExtension
+cache-like,448.0 KiB,448,/Users/yaniv/Library/Caches/com.sonos.macController2/fsCachedData
+cache-like,440.0 KiB,440,/Users/yaniv/Library/Caches/com.apple.proactive.eventtracker/log_stores
+support/container,440.0 KiB,440,/Users/yaniv/Library/Application Support/iTerm2
+support/container,436.0 KiB,436,/Users/yaniv/Library/Containers/com.apple.tips.Widget
+cache-like,424.0 KiB,424,/Users/yaniv/Library/HTTPStorages/com.openai.codex
+support/container,420.0 KiB,420,/Users/yaniv/Library/Containers/com.apple.reminders.WidgetExtension
+support/container,404.0 KiB,404,/Users/yaniv/Library/Application Support/com.operasoftware.Opera/themes
+support/container,396.0 KiB,396,/Users/yaniv/Library/Application Support/Animoji
+support/container,396.0 KiB,396,/Users/yaniv/Library/Application Support/Animoji/CoreDataBackend
+support/container,392.0 KiB,392,/Users/yaniv/Library/Application Support/Alfred
+support/container,380.0 KiB,380,/Users/yaniv/Library/Application Support/Comet/OptimizationHints
+cache-like,376.0 KiB,376,/Users/yaniv/Library/Caches/com.apple.sirittsd
+cache-like,376.0 KiB,376,/Users/yaniv/Library/Caches/com.apple.sirittsd/SynthesisCache
+cache-like,372.0 KiB,372,/Users/yaniv/Library/Caches/com.apple.FileProviderDaemon.AppStoreService
+cache-like,372.0 KiB,372,/Users/yaniv/Library/Caches/ChatGPTHelper/fsCachedData
+cache-like,368.0 KiB,368,/Users/yaniv/Library/Caches/com.mitchellh.ghostty
+cache-like,360.0 KiB,360,/Users/yaniv/Library/HTTPStorages/com.apple.NewDeviceOutreach
+cache-like,360.0 KiB,360,/Users/yaniv/Library/HTTPStorages/com.apple.siri.SuggestionsBookkeepingService
+cache-like,360.0 KiB,360,/Users/yaniv/Library/HTTPStorages/us.zoom.xos
+cache-like,360.0 KiB,360,/Users/yaniv/Library/HTTPStorages/chrome_crashpad_handler
+cache-like,360.0 KiB,360,/Users/yaniv/Library/HTTPStorages/com.oracle.java.Java-Updater
+cache-like,360.0 KiB,360,/Users/yaniv/Library/HTTPStorages/com.apple.iCloudNotificationAgent
+support/container,348.0 KiB,348,/Users/yaniv/Library/Application Support/Microsoft Edge/Edge Notifications
+cache-like,344.0 KiB,344,/Users/yaniv/Library/Caches/mbuseragent
+support/container,344.0 KiB,344,/Users/yaniv/Library/Containers/com.apple.CloudDocs.iCloudDriveFileProvider
+cache-like,340.0 KiB,340,/Users/yaniv/Library/Caches/com.todesktop.230313mzl4w4u92
+support/container,336.0 KiB,336,/Users/yaniv/Library/Containers/com.apple.Safari.CacheDeleteExtension
+cache-like,320.0 KiB,320,/Users/yaniv/Library/Caches/askpermissiond/fsCachedData
+support/container,320.0 KiB,320,/Users/yaniv/Library/Containers/com.apple.Notes.WidgetExtension
+support/container,304.0 KiB,304,/Users/yaniv/Library/Application Support/obs-studio/plugin_config
+support/container,304.0 KiB,304,/Users/yaniv/Library/Application Support/Codex/Local Storage
+support/container,300.0 KiB,300,/Users/yaniv/Library/Application Support/com.apple.control-center.tips
+support/container,300.0 KiB,300,/Users/yaniv/Library/Application Support/com.apple.control-center.tips/.tipkit
+support/container,300.0 KiB,300,/Users/yaniv/Library/Application Support/LM Studio/Cache
+cache-like,296.0 KiB,296,/Users/yaniv/Library/HTTPStorages/com.adobe.ARMDC
+cache-like,296.0 KiB,296,/Users/yaniv/Library/HTTPStorages/com.apple.siriknowledged
+cache-like,296.0 KiB,296,/Users/yaniv/Library/HTTPStorages/com.adobe.acrobat.AcroPatchInstall
+support/container,292.0 KiB,292,/Users/yaniv/Library/Application Support/Rancher Desktop/Cache
+support/container,292.0 KiB,292,/Users/yaniv/Library/Application Support/Code/Local Storage
+cache-like,288.0 KiB,288,/Users/yaniv/Library/Logs/rancher-desktop
+cache-like,284.0 KiB,284,/Users/yaniv/Library/Caches/com.apple.python/Users
+support/container,284.0 KiB,284,/Users/yaniv/Library/Application Support/Microsoft Edge/PKIMetadata
+support/container,284.0 KiB,284,/Users/yaniv/Library/Application Support/Dia/AgentServer
+support/container,284.0 KiB,284,/Users/yaniv/Library/Containers/com.apple.UsageTrackingAgent
+cache-like,276.0 KiB,276,/Users/yaniv/Library/Caches/com.google.GoogleUpdater
+cache-like,276.0 KiB,276,/Users/yaniv/Library/Caches/com.tinyspeck.slackmacgap
+support/container,276.0 KiB,276,/Users/yaniv/Library/Containers/com.apple.SafariPlatformSupport.Helper
+support/container,256.0 KiB,256,/Users/yaniv/Library/Application Support/Comet/Subresource Filter
+cache-like,252.0 KiB,252,/Users/yaniv/Library/Caches/com.github.macadmins.Nudge/fsCachedData
+support/container,252.0 KiB,252,/Users/yaniv/Library/Application Support/com.github.macadmins.Nudge
+support/container,252.0 KiB,252,/Users/yaniv/Library/Application Support/Microsoft Edge/Subresource Filter
+support/container,252.0 KiB,252,/Users/yaniv/Library/Application Support/HubExtensions
+cache-like,248.0 KiB,248,/Users/yaniv/Library/Caches/com.googlecode.iterm2/parsers
+cache-like,248.0 KiB,248,/Users/yaniv/Library/Caches/com.oracle.java.Java-Updater
+support/container,244.0 KiB,244,/Users/yaniv/Library/Application Support/Alfred/Databases
+cache-like,236.0 KiB,236,/Users/yaniv/Library/Caches/com.apple.AppleMediaServices/DynamicUI
+cache-like,236.0 KiB,236,/Users/yaniv/Library/Caches/io.sentry
+cache-like,232.0 KiB,232,/Users/yaniv/Library/Caches/company.thebrowser.dia/fsCachedData
+cache-like,232.0 KiB,232,/Users/yaniv/Library/Caches/io.sentry/e17188c3e6e21ac851cb6a281682b7eaa56e757a
+cache-like,232.0 KiB,232,/Users/yaniv/Library/HTTPStorages/com.apple.jetpackassetd
+cache-like,232.0 KiB,232,/Users/yaniv/Library/HTTPStorages/com.microsoft.VSCode
+cache-like,232.0 KiB,232,/Users/yaniv/Library/HTTPStorages/com.apple.ctcategories.service
+cache-like,228.0 KiB,228,/Users/yaniv/Library/WebKit/com.oracle.java.Java-Updater
+cache-like,228.0 KiB,228,/Users/yaniv/Library/WebKit/com.oracle.java.Java-Updater/WebsiteData
+cache-like,224.0 KiB,224,/Users/yaniv/Library/Caches/com.apple.feedbacklogger/com.apple.assistantd
+support/container,220.0 KiB,220,/Users/yaniv/Library/Containers/com.apple.Home.HomeEnergyWidgets
+support/container,216.0 KiB,216,/Users/yaniv/Library/Application Support/iTerm2/parsers
+support/container,216.0 KiB,216,/Users/yaniv/Library/Application Support/com.apple.controlcenter
+support/container,216.0 KiB,216,/Users/yaniv/Library/Application Support/com.apple.controlcenter/.tipkit
+cache-like,212.0 KiB,212,/Users/yaniv/Library/Caches/com.apple.SoftwareUpdateNotificationManager
+cache-like,212.0 KiB,212,/Users/yaniv/Library/Caches/com.apple.assistant_service
+cache-like,212.0 KiB,212,/Users/yaniv/Library/Caches/com.microsoft.autoupdate2
+cache-like,212.0 KiB,212,/Users/yaniv/Library/Caches/JetPackCache
+cache-like,212.0 KiB,212,/Users/yaniv/Library/Caches/com.apple.AuthenticationServicesCore.AuthenticationServicesAgent
+support/container,212.0 KiB,212,/Users/yaniv/Library/Application Support/Comet/Crowd Deny
+support/container,212.0 KiB,212,/Users/yaniv/Library/Containers/com.microsoft.errorreporting
+support/container,212.0 KiB,212,/Users/yaniv/Library/Containers/com.apple.voicebankingd
+support/container,208.0 KiB,208,/Users/yaniv/Library/Application Support/Arc/SidebarItemsFaviconCache
+support/container,208.0 KiB,208,/Users/yaniv/Library/Group Containers/group.com.apple.managedappdistributionagent
+cache-like,204.0 KiB,204,/Users/yaniv/Library/Caches/GeoServices/RegionalResources
+cache-like,200.0 KiB,200,/Users/yaniv/Library/Caches/JetPackCache/assets
+cache-like,200.0 KiB,200,/Users/yaniv/Library/Caches/com.apple.feedbacklogger/com.apple.siri.telemetry
+support/container,200.0 KiB,200,/Users/yaniv/Library/Application Support/firestore
+support/container,200.0 KiB,200,/Users/yaniv/Library/Application Support/firestore/Arc
+cache-like,192.0 KiB,192,/Users/yaniv/Library/Caches/com.apple.duetexpertd
+cache-like,192.0 KiB,192,/Users/yaniv/Library/Caches/com.apple.duetexpertd/com.apple.e5rt.e5bundlecache
+support/container,192.0 KiB,192,/Users/yaniv/Library/Application Support/com.operasoftware.Opera/SafetyTips
+support/container,188.0 KiB,188,/Users/yaniv/Library/Application Support/Comet/SafetyTips
+support/container,188.0 KiB,188,/Users/yaniv/Library/Containers/com.apple.AddressBook
+cache-like,180.0 KiB,180,/Users/yaniv/Library/Caches/com.apple.ap.PromotedContentJetService
+support/container,176.0 KiB,176,/Users/yaniv/Library/Application Support/com.openai.atlas/d16322da-45b7-4b7e-a1d9-318b0a3bff67
+support/container,176.0 KiB,176,/Users/yaniv/Library/Application Support/Oracle/Java
+support/container,176.0 KiB,176,/Users/yaniv/Library/Application Support/Microsoft Edge/SafetyTips
+support/container,176.0 KiB,176,/Users/yaniv/Library/Application Support/dev.warp.Warp-Stable
+cache-like,172.0 KiB,172,/Users/yaniv/Library/Caches/GameKit
+cache-like,172.0 KiB,172,/Users/yaniv/Library/Caches/com.apple.bookassetd/fsCachedData
+cache-like,172.0 KiB,172,/Users/yaniv/Library/Caches/com.apple.remindd
+support/container,172.0 KiB,172,/Users/yaniv/Library/Group Containers/UBF8T346G9.OneDriveStandaloneSuite
+cache-like,168.0 KiB,168,/Users/yaniv/Library/Caches/com.apple.accountsd
+cache-like,168.0 KiB,168,/Users/yaniv/Library/Caches/com.apple.dataaccess.dataaccessd
+cache-like,168.0 KiB,168,/Users/yaniv/Library/HTTPStorages/com.github.macadmins.Nudge
+cache-like,168.0 KiB,168,/Users/yaniv/Library/HTTPStorages/MiniLauncher
+cache-like,168.0 KiB,168,/Users/yaniv/Library/HTTPStorages/com.apple.assistant_service
+cache-like,168.0 KiB,168,/Users/yaniv/Library/HTTPStorages/com.apple.Spotlight
+cache-like,168.0 KiB,168,/Users/yaniv/Library/HTTPStorages/com.apple.accountsd
+cache-like,168.0 KiB,168,/Users/yaniv/Library/HTTPStorages/com.microsoft.edgemac
+cache-like,168.0 KiB,168,/Users/yaniv/Library/HTTPStorages/com.apple.translationd
+cache-like,168.0 KiB,168,/Users/yaniv/Library/HTTPStorages/Oracle.MacJREInstaller
+cache-like,168.0 KiB,168,/Users/yaniv/Library/HTTPStorages/com.brave.Browser
+cache-like,168.0 KiB,168,/Users/yaniv/Library/Logs/com.openai.codex
+cache-like,168.0 KiB,168,/Users/yaniv/Library/Logs/com.openai.codex/2026
+support/container,168.0 KiB,168,/Users/yaniv/Library/Application Support/Cursor/Cache
+support/container,164.0 KiB,164,/Users/yaniv/Library/Application Support/com.apple.iTunesCloud
+support/container,164.0 KiB,164,/Users/yaniv/Library/Application Support/com.apple.iTunesCloud/URLBags
+cache-like,160.0 KiB,160,/Users/yaniv/Library/Caches/com.apple.weatherd
+cache-like,156.0 KiB,156,/Users/yaniv/Library/Caches/com.apple.managedappdistributionagent/fsCachedData
+cache-like,156.0 KiB,156,/Users/yaniv/Library/Caches/com.apple.bookdatastored/fsCachedData
+support/container,156.0 KiB,156,/Users/yaniv/Library/Application Support/Cursor/process-monitor
+support/container,152.0 KiB,152,/Users/yaniv/Library/Application Support/com.apple.ap.promotedcontentd/shared
+support/container,152.0 KiB,152,/Users/yaniv/Library/Application Support/Code/Service Worker
+support/container,152.0 KiB,152,/Users/yaniv/Library/Application Support/Microsoft Edge/EADPData Component
+support/container,152.0 KiB,152,/Users/yaniv/Library/Application Support/HubExtensions/ForYou-HubX-Plugin
+support/container,148.0 KiB,148,/Users/yaniv/Library/Containers/com.apple.journal.widgets
+cache-like,144.0 KiB,144,/Users/yaniv/Library/Caches/com.apple.iBooksX
+cache-like,144.0 KiB,144,/Users/yaniv/Library/Caches/com.apple.iBooksX/CommerceRequestCache
+support/container,144.0 KiB,144,/Users/yaniv/Library/Containers/com.apple.findmy.FindMyWidgetIntentsPeople
+cache-like,140.0 KiB,140,/Users/yaniv/Library/Caches/MiniLauncher
+cache-like,140.0 KiB,140,/Users/yaniv/Library/Caches/GameKit/StoreBag
+cache-like,140.0 KiB,140,/Users/yaniv/Library/Caches/com.apple.bird
+support/container,140.0 KiB,140,/Users/yaniv/Library/Group Containers/group.com.apple.tv.sharedcontainer
+cache-like,136.0 KiB,136,/Users/yaniv/Library/Caches/com.apple.betaenrollmentd
+cache-like,136.0 KiB,136,/Users/yaniv/Library/Caches/Acrobat
+cache-like,136.0 KiB,136,/Users/yaniv/Library/Caches/Acrobat/DC
+support/container,136.0 KiB,136,/Users/yaniv/Library/Application Support/Microsoft Edge/Domain Actions
+support/container,136.0 KiB,136,/Users/yaniv/Library/Application Support/Alfred/Assistant
+cache-like,132.0 KiB,132,/Users/yaniv/Library/Caches/mbuseragent/fsCachedData
+support/container,132.0 KiB,132,/Users/yaniv/Library/Containers/com.apple.siri.media-indexer
+support/container,132.0 KiB,132,/Users/yaniv/Library/Containers/com.apple.shortcuts.ShortcutsWidget
+support/container,128.0 KiB,128,/Users/yaniv/Library/Application Support/Code - Insiders/Local Storage
+cache-like,120.0 KiB,120,/Users/yaniv/Library/Logs/Adobe/LogTransport
+support/container,120.0 KiB,120,/Users/yaniv/Library/Group Containers/group.com.apple.mobiletimerd
+cache-like,116.0 KiB,116,/Users/yaniv/Library/HTTPStorages/com.apple.akd
+support/container,116.0 KiB,116,/Users/yaniv/Library/Containers/com.apple.ContactsUI.MonogramPosterExtension
+support/container,108.0 KiB,108,/Users/yaniv/Library/Application Support/Microsoft Edge/Ad Blocking
+cache-like,104.0 KiB,104,/Users/yaniv/Library/Caches/OneDrive
+cache-like,104.0 KiB,104,/Users/yaniv/Library/HTTPStorages/company.thebrowser.dia
+support/container,104.0 KiB,104,/Users/yaniv/Library/Application Support/SonosV2/cache
+support/container,104.0 KiB,104,/Users/yaniv/Library/Containers/com.apple.Home.HomeWidget.Interactive
+cache-like,100.0 KiB,100,/Users/yaniv/Library/Caches/.omb/metrics
+cache-like,100.0 KiB,100,/Users/yaniv/Library/HTTPStorages/com.apple.SoftwareUpdateNotificationManager
+cache-like,100.0 KiB,100,/Users/yaniv/Library/HTTPStorages/com.apple.ap.PromotedContentJetService
+support/container,100.0 KiB,100,/Users/yaniv/Library/Application Support/HubExtensions/Self-Support
+cache-like,96.0 KiB,96,/Users/yaniv/Library/Caches/com.apple.akd/fsCachedData
+support/container,96.0 KiB,96,/Users/yaniv/Library/Application Support/com.apple.akd
+support/container,96.0 KiB,96,/Users/yaniv/Library/Application Support/CrashReporter
+support/container,96.0 KiB,96,/Users/yaniv/Library/Containers/com.apple.findmy.FindMyWidgetPeople
+support/container,96.0 KiB,96,/Users/yaniv/Library/Containers/com.apple.findmy.FindMyWidgetItems
+cache-like,92.0 KiB,92,/Users/yaniv/Library/Caches/com.adobe.ARMDCHelper
+cache-like,92.0 KiB,92,/Users/yaniv/Library/HTTPStorages/com.apple.newsd
+cache-like,92.0 KiB,92,/Users/yaniv/Library/HTTPStorages/com.sonos.macController2
+cache-like,88.0 KiB,88,/Users/yaniv/Library/HTTPStorages/com.adobe.Reader
+cache-like,88.0 KiB,88,/Users/yaniv/Library/HTTPStorages/com.microsoft.VSCodeInsiders
+support/container,88.0 KiB,88,/Users/yaniv/Library/Application Support/F5 EPI/Langs
+cache-like,84.0 KiB,84,/Users/yaniv/Library/Caches/kopia
+cache-like,84.0 KiB,84,/Users/yaniv/Library/Caches/kopia/1b6833ab61ee3be9
+cache-like,84.0 KiB,84,/Users/yaniv/Library/Caches/com.apple.shazamd/fsCachedData
+support/container,84.0 KiB,84,/Users/yaniv/Library/Application Support/Comet/segmentation_platform
+support/container,84.0 KiB,84,/Users/yaniv/Library/Application Support/Slack/Local Storage
+support/container,84.0 KiB,84,/Users/yaniv/Library/Application Support/JREInstaller
+support/container,84.0 KiB,84,/Users/yaniv/Library/Containers/com.apple.journal.widgets.secure
+cache-like,80.0 KiB,80,/Users/yaniv/Library/Caches/com.adobe.AdobeCRDaemon
+cache-like,80.0 KiB,80,/Users/yaniv/Library/Caches/GeoServices/SearchAttribution
+cache-like,80.0 KiB,80,/Users/yaniv/Library/Caches/com.adobe.crashreporter
+cache-like,80.0 KiB,80,/Users/yaniv/Library/Caches/com.adobe.Reader
+cache-like,80.0 KiB,80,/Users/yaniv/Library/Caches/company.thebrowser.Browser
+cache-like,80.0 KiB,80,/Users/yaniv/Library/Caches/com.apple.siri.SuggestionsBookkeepingService
+cache-like,80.0 KiB,80,/Users/yaniv/Library/Caches/chrome_crashpad_handler
+cache-like,80.0 KiB,80,/Users/yaniv/Library/Caches/com.apple.parsecd/Cohorts
+cache-like,80.0 KiB,80,/Users/yaniv/Library/Caches/com.adobe.LogTransport.LogTransport
+cache-like,80.0 KiB,80,/Users/yaniv/Library/Caches/io.rancherdesktop.app
+cache-like,80.0 KiB,80,/Users/yaniv/Library/Caches/com.brave.Browser
+cache-like,80.0 KiB,80,/Users/yaniv/Library/HTTPStorages/com.microsoft.autoupdate2
+cache-like,80.0 KiB,80,/Users/yaniv/Library/HTTPStorages/com.mitchellh.ghostty
+cache-like,80.0 KiB,80,/Users/yaniv/Library/HTTPStorages/com.apple.TV
+support/container,80.0 KiB,80,/Users/yaniv/Library/Application Support/com.apple.spotlight
+support/container,80.0 KiB,80,/Users/yaniv/Library/Application Support/Arc/RemoteAssetDirectory
+support/container,80.0 KiB,80,/Users/yaniv/Library/Containers/com.apple.FaceTime
+support/container,80.0 KiB,80,/Users/yaniv/Library/Containers/com.apple.Batteries.BatteriesAvocadoWidgetExtension
+cache-like,76.0 KiB,76,/Users/yaniv/Library/HTTPStorages/icloudmailagent
+cache-like,76.0 KiB,76,/Users/yaniv/Library/HTTPStorages/com.apple.weatherd
+cache-like,72.0 KiB,72,/Users/yaniv/Library/HTTPStorages/com.apple.FileProviderDaemon.AppStoreService
+cache-like,72.0 KiB,72,/Users/yaniv/Library/HTTPStorages/com.vmware.hub.mac
+cache-like,72.0 KiB,72,/Users/yaniv/Library/HTTPStorages/com.tinyspeck.slackmacgap
+cache-like,72.0 KiB,72,/Users/yaniv/Library/HTTPStorages/com.todesktop.230313mzl4w4u92
+cache-like,68.0 KiB,68,/Users/yaniv/Library/Caches/com.openai.atlas/com.onevcat.Kingfisher.ImageCache
+cache-like,68.0 KiB,68,/Users/yaniv/Library/Caches/claude-cli-nodejs
+cache-like,68.0 KiB,68,/Users/yaniv/Library/HTTPStorages/com.adobe.AdobeCRDaemon
+cache-like,68.0 KiB,68,/Users/yaniv/Library/HTTPStorages/com.apple.AOSPushRelay
+cache-like,68.0 KiB,68,/Users/yaniv/Library/HTTPStorages/mbuseragent
+cache-like,68.0 KiB,68,/Users/yaniv/Library/HTTPStorages/io.rancherdesktop.app
+support/container,68.0 KiB,68,/Users/yaniv/Library/Application Support/Intelligent Hub
+support/container,68.0 KiB,68,/Users/yaniv/Library/Containers/com.apple.FaceTime.FaceTimeNotificationExtension
+support/container,68.0 KiB,68,/Users/yaniv/Library/Containers/com.apple.routined
+support/container,68.0 KiB,68,/Users/yaniv/Library/Containers/com.apple.SiriNCService
+cache-like,64.0 KiB,64,/Users/yaniv/Library/HTTPStorages/com.apple.betaenrollmentd
+support/container,60.0 KiB,60,/Users/yaniv/Library/Application Support/com.apple.callintelligenced
+cache-like,56.0 KiB,56,/Users/yaniv/Library/Caches/com.apple.feedbacklogger/com.apple.siri.unordered
+cache-like,56.0 KiB,56,/Users/yaniv/Library/HTTPStorages/com.adobe.crashreporter
+cache-like,56.0 KiB,56,/Users/yaniv/Library/HTTPStorages/com.operasoftware.Installer.Opera
+cache-like,56.0 KiB,56,/Users/yaniv/Library/HTTPStorages/com.adobe.LogTransport.LogTransport
+cache-like,56.0 KiB,56,/Users/yaniv/Library/Logs/Adobe/AdobeCRCommon
+support/container,56.0 KiB,56,/Users/yaniv/Library/Application Support/segment
+support/container,56.0 KiB,56,/Users/yaniv/Library/Application Support/Slack/Session Storage
+support/container,56.0 KiB,56,/Users/yaniv/Library/Containers/com.apple.omniSearch.SearchToolExtension
+support/container,56.0 KiB,56,/Users/yaniv/Library/Containers/com.apple.Home.HomeWidget
+support/container,52.0 KiB,52,/Users/yaniv/Library/Application Support/Firefox/Crash Reports
+support/container,52.0 KiB,52,/Users/yaniv/Library/Application Support/LM Studio/Shared Dictionary
+support/container,52.0 KiB,52,/Users/yaniv/Library/Application Support/Cursor/Shared Dictionary
+support/container,52.0 KiB,52,/Users/yaniv/Library/Application Support/Rancher Desktop/Shared Dictionary
+support/container,52.0 KiB,52,/Users/yaniv/Library/Application Support/segment/ewjp2RGpYO4hHSErQ3lBOOjnR0YqolJo
+support/container,52.0 KiB,52,/Users/yaniv/Library/Application Support/Codex/Shared Dictionary
+support/container,52.0 KiB,52,/Users/yaniv/Library/Application Support/Code/Shared Dictionary
+support/container,52.0 KiB,52,/Users/yaniv/Library/Application Support/Code - Insiders/Service Worker
+support/container,52.0 KiB,52,/Users/yaniv/Library/Application Support/Code - Insiders/Shared Dictionary
+support/container,52.0 KiB,52,/Users/yaniv/Library/Application Support/Slack/Shared Dictionary
+support/container,52.0 KiB,52,/Users/yaniv/Library/Application Support/Dock
+support/container,52.0 KiB,52,/Users/yaniv/Library/Containers/com.apple.ScreenTimeAgent
+support/container,52.0 KiB,52,/Users/yaniv/Library/Containers/com.apple.contacts.donation-agent
+support/container,52.0 KiB,52,/Users/yaniv/Library/Containers/com.apple.CharacterPaletteIM
+support/container,48.0 KiB,48,/Users/yaniv/Library/Application Support/Dia/RemoteAssetDirectory
+support/container,48.0 KiB,48,/Users/yaniv/Library/Containers/com.apple.FaceTime.FaceTimeNotificationCenterService
+support/container,48.0 KiB,48,/Users/yaniv/Library/Containers/com.apple.WorkflowKit.ShortcutsViewService
+support/container,48.0 KiB,48,/Users/yaniv/Library/Containers/com.apple.notificationcenterui
+support/container,48.0 KiB,48,/Users/yaniv/Library/Containers/com.apple.aiml.mlpt.FedStats.MLHostPlugin
+support/container,48.0 KiB,48,/Users/yaniv/Library/Containers/com.apple.Siri
+support/container,48.0 KiB,48,/Users/yaniv/Library/Containers/com.apple.Dictionary
+support/container,48.0 KiB,48,/Users/yaniv/Library/Containers/com.apple.siri.SiriSuggestionsLightHousePlugin
+support/container,48.0 KiB,48,/Users/yaniv/Library/Containers/net.whatsapp.WhatsApp.ServiceExtension
+cache-like,44.0 KiB,44,/Users/yaniv/Library/Caches/com.apple.chrono
+cache-like,44.0 KiB,44,/Users/yaniv/Library/Caches/com.apple.chrono/widget-relevance-cache
+cache-like,44.0 KiB,44,/Users/yaniv/Library/Caches/com.apple.AppleMediaServices/Storage
+support/container,44.0 KiB,44,/Users/yaniv/Library/Application Support/Comet/TpcdMetadata
+support/container,44.0 KiB,44,/Users/yaniv/Library/Application Support/iTerm2/SavedState
+support/container,44.0 KiB,44,/Users/yaniv/Library/Containers/com.apple.QuickTimePlayerX
+support/container,44.0 KiB,44,/Users/yaniv/Library/Containers/com.apple.siri.ODDIPoirotMetricsExtension
+support/container,44.0 KiB,44,/Users/yaniv/Library/Containers/com.apple.AccessibilitySettingsWidgetExtension
+support/container,44.0 KiB,44,/Users/yaniv/Library/Containers/com.apple.Notes.IntentsExtension
+support/container,44.0 KiB,44,/Users/yaniv/Library/Containers/com.apple.Family
+cache-like,40.0 KiB,40,/Users/yaniv/Library/Caches/claude-cli-nodejs/-Users-yaniv-dev-bigdata-python-examples
+cache-like,40.0 KiB,40,/Users/yaniv/Library/Caches/Adobe
+cache-like,40.0 KiB,40,/Users/yaniv/Library/Caches/Adobe/Color
+cache-like,40.0 KiB,40,/Users/yaniv/Library/Caches/AMSDataMigratorTool
+cache-like,40.0 KiB,40,/Users/yaniv/Library/Caches/com.apple.donotdisturbd/fsCachedData
+support/container,40.0 KiB,40,/Users/yaniv/Library/Application Support/Slack/WebStorage
+support/container,40.0 KiB,40,/Users/yaniv/Library/Application Support/Arc/ArchiveItemsFaviconCache
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.siri.SiriPrivateLearningAnalytics.SiriUserSegmentation
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.LighthouseBitacoraFramework.BitacoraWorker
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.quicklook.QuickLookUIService
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.lighthouse.SiriTurnRestatementExtension
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.BKAgentService
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.LookupViewService
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.Notes.SpotlightIndexExtension
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.lighthouse.BiomeSELFIngestor
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.lighthouse.SiriCoreMetricsWorker
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/net.whatsapp.WhatsApp.WAAppKitBridgeService
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.reminders.macOSIntentsExtension
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.shortcuts.ShortcutLiveActivityWidget
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.PeopleViewService.SelectPerson-iOS
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.SiriMetrics.SiriTurnRestatementExtension
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.FamilyControlsAgent
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.siri.metrics.ExperimentationExtension
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.findmy.FindMyWidgetIntentsItems
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.siri.ODDIPoirotExperimentationExtension
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.siri.metrics.AssetMetricsExtension
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.siri.metrics.DevicePropertiesExtension
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.ContinuityCaptureOnboardingUI
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.messages.AssistantExtension
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.siri.metrics.MetricsExtension
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.lighthouse.PnROnDeviceWorker
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.Internet-Accounts-Settings.extension
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.quicklook.ui.helper
+support/container,40.0 KiB,40,/Users/yaniv/Library/Containers/com.apple.MobileSMS.MessagesActionExtension
+support/container,40.0 KiB,40,/Users/yaniv/Library/Group Containers/UBF8T346G9.com.microsoft.oneauth
+support/container,40.0 KiB,40,/Users/yaniv/Library/Group Containers/UBF8T346G9.ms
+support/container,36.0 KiB,36,/Users/yaniv/Library/Application Support/Slack/Service Worker
+support/container,36.0 KiB,36,/Users/yaniv/Library/Application Support/ConfigurationProfiles
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.lighthouse.InferenceExtension
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.speech.MacinTalkFramework.WardaSynthesizer.x86-64
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.photos.ImageConversionService
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.controls.screenshot
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.calendar.CalendarIntentsExtension
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.poirot.MessagesAnalyticsWorker
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.speech.MacinTalkFramework.WardaSynthesizer
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.AvatarUI.AvatarPickerMemojiEditor
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.speech.MacinTalkFramework.WardaSynthesizer.arm64
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.sharing.ShareSheetUI
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.MailServiceAgent
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.AMPDeviceDiscoveryAgent
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.aiml.mlpt.FedStats.MLHostPluginClassB
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.Safari.BrowserDataImportingService
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.Keyboard-Settings.extension
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.podcasts.SpotlightIndexExtension
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.accessibility.axassetsd
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.ExtensionsSettings.DefaultExtensionEnablement
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.CoreCDPUI.CDPFollowUpExtension
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.speech.MacinTalkFramework.MacinTalkAUSP
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.controls.display
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.wallpaper.extension.aerials
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.lighthouse.IFTranscriptSELFIngestor
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.MailShortcutsExtension
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.AMSUIPaymentViewService
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.DataDetectorsLocalSources
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.SafariFoundation.CredentialProviderExtensionHelper
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.VoiceMemos.VoiceMemosSettingsWidget
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.printcenter.PrintCenterWidget
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.mail.SpotlightIndexExtension
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.MailCacheDelete
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.AvatarUI.AvatarPickerPosePicker
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.mlhost.CloudWorker
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.ManagedSettings.ManagedSettingsMacOSExtension
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.TextEdit
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.iCloudDriveCore.telemetry-disk-checker
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.facetime.NotificationViewBridgeService
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.WindowManager.controls
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.texttospeech.SiriAUSP
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetIntentsExtension
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.CoreRoutine.helperservice
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.notes.exchangenotesd
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.lighthouse.IFTelemetrySELFIngestor
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.siri.ODDI.MetricsExtension
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.Safari.SafariLinkExtension
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.siri.ODDIMetricsExtension
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.unilog.SearchUploadWorker
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.ax.MauiTTSSupport.MauiAUSP
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.weather.WeatherIntents
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.siri.ODDIExperimentationExtension
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.VoiceMemos.RecordWidget
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.wallpaper.extension.legacy
+support/container,36.0 KiB,36,/Users/yaniv/Library/Containers/com.apple.CalendarWidget.IntentsExtension
+cache-like,32.0 KiB,32,/Users/yaniv/Library/Caches/com.apple.FileProviderDaemon.AppStoreService/fsCachedData
+cache-like,32.0 KiB,32,/Users/yaniv/Library/Caches/com.apple.nbagent/fsCachedData
+cache-like,32.0 KiB,32,/Users/yaniv/Library/Caches/com.apple.commerce
+cache-like,32.0 KiB,32,/Users/yaniv/Library/Caches/com.oracle.java.Java-Updater/fsCachedData
+cache-like,32.0 KiB,32,/Users/yaniv/Library/Logs/F5Networks
+support/container,32.0 KiB,32,/Users/yaniv/Library/Application Support/com.apple.spotlight/CandidateReports
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.CloudPhotosConfiguration
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.PressAndHold
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.languageassetd
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.wallpaper.extension.macintosh
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.mlhost.TelemetryWorker
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.ax.KonaTTSSupport.KonaSynthesizer
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.wallpaper.extension.gradient
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.mobiletimer-framework.MobileTimerIntents
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.PlatformSSO.AccessKey
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.wallpaper.extension.sonoma
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.ExtensionsSettings.LegacyPluginEnablementExtension
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.MobileSMS.spotlight
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.crowdstrike.CsFalconConnector
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.parsec.SafariBrowsingAssistantWorker
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.ClassKit-Settings.extension
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.IOUIAgent
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.lighthouse.SAExtensionOrchestrator
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.unilog.SiriUploadWorker
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.aiml.RepackagingWorker
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.FollowUpSettings.FollowUpSettingsExtension
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.wallpaper.extension.sequoia
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.MediaExtensions-Settings
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.Sound-Settings.SoundIntents
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.wallpaper.extension.dynamic
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.SystemExtensions-Settings.extension
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.displaylink.DisplayLinkUserAgent
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.iBooks.iBooksSpotlightExtension
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.aiml.UnilogTelemetryWorker
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.PlatformSSOToken
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.Music.MusicCacheExtension
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.microsoft.Outlook.CalendarWidget
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.calendar.CalendarFocusConfigurationExtension
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.Photos.PhotosReliveWidgetIntents
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.wallpaper.agent.controls
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.MediaMLPluginApp.MediaMLExtension
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.NeptuneOneExtension
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.siri.GMSSELFIngestor
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.Displays-Settings.extension
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.TV.TVCacheExtension
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.speech.SpeechSynthesisServerXPC
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.DifferentialPrivacy.TelemetryAggregator
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.aiml.mlpt.FedStats.MLHostPluginClassA
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.calculator.CalculatorWidget
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.SiriUI.SiriUISetupXPC
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.systempreferences.GeneralSettings
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.LinkedNotesUIService
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.CryptoTokenKit.ctkcard.ctkcardtoken
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.dock.controls
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.unilog.search.MacMailSearchLogProcessor
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.AirPlayUIAgent
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.fskit.ModuleEnablement
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.lighthouse.BiomeLibraryEventUploader
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.parsec.SafariAssistantWorker
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.apple.contacts.ContactsCoreSpotlightExtension
+support/container,32.0 KiB,32,/Users/yaniv/Library/Containers/com.pilotmoon.scroll-reverser.launcher
+cache-like,28.0 KiB,28,/Users/yaniv/Library/Caches/Mozilla
+cache-like,28.0 KiB,28,/Users/yaniv/Library/Caches/Mozilla/updates
+cache-like,28.0 KiB,28,/Users/yaniv/Library/Caches/com.openai.chat/com.onevcat.Kingfisher.ImageCache
+cache-like,28.0 KiB,28,/Users/yaniv/Library/Caches/claude-cli-nodejs/-Users-yaniv-dev-py106
+cache-like,28.0 KiB,28,/Users/yaniv/Library/Caches/com.apple.cache_delete
+cache-like,28.0 KiB,28,/Users/yaniv/Library/Logs/LM Studio
+cache-like,28.0 KiB,28,/Users/yaniv/Library/Saved Application State/com.sonos.macController2.savedState
+support/container,28.0 KiB,28,/Users/yaniv/Library/Application Support/Microsoft Edge/CertificateRevocation
+support/container,28.0 KiB,28,/Users/yaniv/Library/Application Support/Microsoft Edge/Web Notifications Deny List
+support/container,28.0 KiB,28,/Users/yaniv/Library/Containers/com.apple.siri.SiriTTSService.synthesizer
+support/container,28.0 KiB,28,/Users/yaniv/Library/Containers/com.apple.tonelibraryd
+support/container,28.0 KiB,28,/Users/yaniv/Library/Containers/com.apple.wallpaper.extension.video
+support/container,28.0 KiB,28,/Users/yaniv/Library/Containers/com.apple.QuickLookThumbnailing.extension.ThumbnailExtension-macOS
+support/container,28.0 KiB,28,/Users/yaniv/Library/Containers/com.apple.ScreenSaver.Ventura
+support/container,28.0 KiB,28,/Users/yaniv/Library/Containers/com.apple.LoginUserService
+support/container,28.0 KiB,28,/Users/yaniv/Library/Containers/com.apple.CryptoTokenKit.pivtoken
+support/container,28.0 KiB,28,/Users/yaniv/Library/Containers/com.apple.windowmanager.ShowDesktopEducation
+support/container,28.0 KiB,28,/Users/yaniv/Library/Containers/com.apple.mcx.ProfileHelper
+support/container,28.0 KiB,28,/Users/yaniv/Library/Containers/com.apple.OSDUIHelper
+cache-like,24.0 KiB,24,/Users/yaniv/Library/Caches/com.apple.ap.PromotedContentJetService/JetPackCache
+cache-like,24.0 KiB,24,/Users/yaniv/Library/Caches/com.apple.translationd/fsCachedData
+cache-like,24.0 KiB,24,/Users/yaniv/Library/Caches/com.apple.iCloudNotificationAgent/fsCachedData
+cache-like,24.0 KiB,24,/Users/yaniv/Library/Caches/com.apple.weatherd/fsCachedData
+cache-like,24.0 KiB,24,/Users/yaniv/Library/Caches/com.datadoghq
+cache-like,24.0 KiB,24,/Users/yaniv/Library/Caches/com.datadoghq/v2
+support/container,24.0 KiB,24,/Users/yaniv/Library/Application Support/com.openai.atlas/system-hints-d16322da-45b7-4b7e-a1d9-318b0a3bff67
+support/container,24.0 KiB,24,/Users/yaniv/Library/Application Support/Codex/sentry
+support/container,24.0 KiB,24,/Users/yaniv/Library/Application Support/com.apple.NewDeviceOutreach
+support/container,24.0 KiB,24,/Users/yaniv/Library/Application Support/Oracle Backup/Session Storage
+support/container,24.0 KiB,24,/Users/yaniv/Library/Application Support/Adobe/GUDE
+support/container,24.0 KiB,24,/Users/yaniv/Library/Application Support/Comet/FirstPartySetsPreloaded
+support/container,24.0 KiB,24,/Users/yaniv/Library/Application Support/Comet/TrustTokenKeyCommitments
+support/container,24.0 KiB,24,/Users/yaniv/Library/Application Support/Microsoft Edge/FirstPartySetsPreloaded
+support/container,24.0 KiB,24,/Users/yaniv/Library/Application Support/Microsoft Edge/Edge Cloud Config
+support/container,24.0 KiB,24,/Users/yaniv/Library/Application Support/Microsoft Edge/TrustTokenKeyCommitments
+support/container,24.0 KiB,24,/Users/yaniv/Library/Application Support/Arc/ArchiveSnapshotCache
+support/container,24.0 KiB,24,/Users/yaniv/Library/Application Support/iCloud
+support/container,24.0 KiB,24,/Users/yaniv/Library/Application Support/iCloud/Accounts
+support/container,24.0 KiB,24,/Users/yaniv/Library/Containers/com.apple.iBooksX.BooksThumbnail
+cache-like,20.0 KiB,20,/Users/yaniv/Library/Caches/SentryCrash
+cache-like,20.0 KiB,20,/Users/yaniv/Library/Caches/com.todesktop.230313mzl4w4u92.ShipIt
+cache-like,20.0 KiB,20,/Users/yaniv/Library/Caches/com.mitchellh.ghostty/fsCachedData
+cache-like,20.0 KiB,20,/Users/yaniv/Library/Caches/io.rancherdesktop.app.ShipIt
+support/container,20.0 KiB,20,/Users/yaniv/Library/Application Support/obs-studio/basic
+support/container,20.0 KiB,20,/Users/yaniv/Library/Application Support/obs-studio/logs
+support/container,20.0 KiB,20,/Users/yaniv/Library/Application Support/LM Studio/Session Storage
+support/container,20.0 KiB,20,/Users/yaniv/Library/Application Support/LM Studio/Local Storage
+support/container,20.0 KiB,20,/Users/yaniv/Library/Application Support/Cursor/Session Storage
+support/container,20.0 KiB,20,/Users/yaniv/Library/Application Support/Cursor/Local Storage
+support/container,20.0 KiB,20,/Users/yaniv/Library/Application Support/Rancher Desktop/Session Storage
+support/container,20.0 KiB,20,/Users/yaniv/Library/Application Support/com.microsoft.SharePoint-mac
+support/container,20.0 KiB,20,/Users/yaniv/Library/Application Support/com.microsoft.SharePoint-mac/com.microsoft.appcenter
+support/container,20.0 KiB,20,/Users/yaniv/Library/Application Support/Codex/Session Storage
+support/container,20.0 KiB,20,/Users/yaniv/Library/Application Support/Code/Session Storage
+support/container,20.0 KiB,20,/Users/yaniv/Library/Application Support/Comet/MEIPreload
+support/container,20.0 KiB,20,/Users/yaniv/Library/Application Support/com.operasoftware.Opera/MEIPreload
+support/container,20.0 KiB,20,/Users/yaniv/Library/Application Support/Code - Insiders/Session Storage
+support/container,20.0 KiB,20,/Users/yaniv/Library/Application Support/Microsoft Edge/Nurturing
+support/container,20.0 KiB,20,/Users/yaniv/Library/Containers/com.apple.ScreenSaver.Engine
+cache-like,16.0 KiB,16,/Users/yaniv/Library/Caches/com.apple.appleaccountd/fsCachedData
+cache-like,16.0 KiB,16,/Users/yaniv/Library/Caches/familycircled/fsCachedData
+cache-like,16.0 KiB,16,/Users/yaniv/Library/Caches/com.apple.FeatureAccessAgent/fsCachedData
+cache-like,16.0 KiB,16,/Users/yaniv/Library/Caches/MiniLauncher/fsCachedData
+cache-like,16.0 KiB,16,/Users/yaniv/Library/Caches/com.apple.VideoConference
+cache-like,16.0 KiB,16,/Users/yaniv/Library/Caches/com.apple.bird/fsCachedData
+cache-like,16.0 KiB,16,/Users/yaniv/Library/Caches/com.apple.cloudd/fsCachedData
+cache-like,16.0 KiB,16,/Users/yaniv/Library/Saved Application State/com.apple.installer.savedState
+cache-like,16.0 KiB,16,/Users/yaniv/Library/Saved Application State/com.apple.DiskUtility.savedState
+cache-like,16.0 KiB,16,/Users/yaniv/Library/Saved Application State/com.adobe.Reader.savedState
+support/container,16.0 KiB,16,/Users/yaniv/Library/Application Support/com.openai.chat/io.sentry
+support/container,16.0 KiB,16,/Users/yaniv/Library/Application Support/com.openai.atlas/aura-suggestions-d16322da-45b7-4b7e-a1d9-318b0a3bff67
+support/container,16.0 KiB,16,/Users/yaniv/Library/Application Support/LM Studio/Code Cache
+support/container,16.0 KiB,16,/Users/yaniv/Library/Application Support/Cursor/Code Cache
+support/container,16.0 KiB,16,/Users/yaniv/Library/Application Support/Rancher Desktop/Code Cache
+support/container,16.0 KiB,16,/Users/yaniv/Library/Application Support/Rancher Desktop/Local Storage
+support/container,16.0 KiB,16,/Users/yaniv/Library/Application Support/Codex/Code Cache
+support/container,16.0 KiB,16,/Users/yaniv/Library/Application Support/Code/Code Cache
+support/container,16.0 KiB,16,/Users/yaniv/Library/Application Support/com.apple.NewDeviceOutreach/caches
+support/container,16.0 KiB,16,/Users/yaniv/Library/Application Support/Oracle Backup/Code Cache
+support/container,16.0 KiB,16,/Users/yaniv/Library/Application Support/Oracle Backup/Local Storage
+support/container,16.0 KiB,16,/Users/yaniv/Library/Application Support/Comet/CookieReadinessList
+support/container,16.0 KiB,16,/Users/yaniv/Library/Application Support/Comet/FileTypePolicies
+support/container,16.0 KiB,16,/Users/yaniv/Library/Application Support/Comet/ProbabilisticRevealTokenRegistry
+support/container,16.0 KiB,16,/Users/yaniv/Library/Application Support/Code - Insiders/Code Cache
+support/container,16.0 KiB,16,/Users/yaniv/Library/Application Support/Slack/Code Cache
+cache-like,12.0 KiB,12,/Users/yaniv/Library/Caches/com.tinyspeck.slackmacgap.ShipIt
+cache-like,12.0 KiB,12,/Users/yaniv/Library/Caches/com.apple.NewDeviceOutreach/fsCachedData
+cache-like,12.0 KiB,12,/Users/yaniv/Library/Caches/com.apple.VideoConference/logs
+cache-like,12.0 KiB,12,/Users/yaniv/Library/Caches/com.openai.codex/fsCachedData
+cache-like,12.0 KiB,12,/Users/yaniv/Library/Caches/com.apple.Family-Settings.extension/fsCachedData
+cache-like,12.0 KiB,12,/Users/yaniv/Library/Caches/com.apple.ap.PromotedContentJetService/fsCachedData
+cache-like,12.0 KiB,12,/Users/yaniv/Library/Logs/zoom.us/crashlog
+cache-like,12.0 KiB,12,/Users/yaniv/Library/Logs/CrashReporter
+cache-like,12.0 KiB,12,/Users/yaniv/Library/Logs/CrashReporter/DiagnosticLogs
+cache-like,12.0 KiB,12,/Users/yaniv/Library/Saved Application State/com.f5.epi.savedState
+support/container,12.0 KiB,12,/Users/yaniv/Library/Application Support/com.apple.ap.promotedcontentd/SFS
+support/container,12.0 KiB,12,/Users/yaniv/Library/Application Support/com.openai.chat/system-hints-7fb09b21-c400-4a68-a7f3-1f94a035df42
+support/container,12.0 KiB,12,/Users/yaniv/Library/Application Support/com.openai.chat/app_pairing_extensions
+support/container,12.0 KiB,12,/Users/yaniv/Library/Application Support/com.openai.chat/models-7fb09b21-c400-4a68-a7f3-1f94a035df42
+support/container,12.0 KiB,12,/Users/yaniv/Library/Application Support/com.openai.atlas/io.sentry
+support/container,12.0 KiB,12,/Users/yaniv/Library/Application Support/Comet/SSLErrorAssistant
+support/container,12.0 KiB,12,/Users/yaniv/Library/Application Support/Comet/AmountExtractionHeuristicRegexes
+support/container,12.0 KiB,12,/Users/yaniv/Library/Application Support/com.operasoftware.Opera/AmountExtractionHeuristicRegexes
+support/container,12.0 KiB,12,/Users/yaniv/Library/Application Support/Microsoft Edge/Edge Data Protection Lists
+support/container,12.0 KiB,12,/Users/yaniv/Library/Application Support/Dia/Favicons
+support/container,12.0 KiB,12,/Users/yaniv/Library/Group Containers/UBF8T346G9.OfficeExcelWidget
+support/container,12.0 KiB,12,/Users/yaniv/Library/Group Containers/UBF8T346G9.OfficeWordWidget
+support/container,12.0 KiB,12,/Users/yaniv/Library/Group Containers/group.com.apple.fskit.settings
+cache-like,8.0 KiB,8,/Users/yaniv/Library/Caches/com.openai.atlas/fsCachedData
+cache-like,8.0 KiB,8,/Users/yaniv/Library/Caches/Microsoft
+cache-like,8.0 KiB,8,/Users/yaniv/Library/Caches/Microsoft/uls
+cache-like,8.0 KiB,8,/Users/yaniv/Library/Caches/com.apple.iTunesCloud
+cache-like,8.0 KiB,8,/Users/yaniv/Library/Caches/com.apple.iTunesCloud/InAppMessages
+support/container,8.0 KiB,8,/Users/yaniv/Library/Application Support/com.apple.backgroundtaskmanagementagent
+support/container,8.0 KiB,8,/Users/yaniv/Library/Application Support/obs-studio/updates
+support/container,8.0 KiB,8,/Users/yaniv/Library/Application Support/com.openai.chat/gizmos-7fb09b21-c400-4a68-a7f3-1f94a035df42
+support/container,8.0 KiB,8,/Users/yaniv/Library/Application Support/Cursor/sentry
+support/container,8.0 KiB,8,/Users/yaniv/Library/Application Support/com.apple.appleintelligencereporting.processing
+support/container,8.0 KiB,8,/Users/yaniv/Library/Application Support/App Store
+support/container,8.0 KiB,8,/Users/yaniv/Library/Application Support/Code/CachedConfigurations
+support/container,8.0 KiB,8,/Users/yaniv/Library/Application Support/Comet/OriginTrials
+support/container,8.0 KiB,8,/Users/yaniv/Library/Application Support/Code - Insiders/CachedConfigurations
+support/container,8.0 KiB,8,/Users/yaniv/Library/Application Support/icdd
+support/container,8.0 KiB,8,/Users/yaniv/Library/Application Support/Microsoft Edge/AutoLaunchProtocolsComponent
+support/container,8.0 KiB,8,/Users/yaniv/Library/Application Support/Microsoft Edge/Crashpad
+support/container,8.0 KiB,8,/Users/yaniv/Library/Application Support/Microsoft Edge/WorkspacesNavigationComponent
+support/container,8.0 KiB,8,/Users/yaniv/Library/Application Support/Microsoft Edge/ProvenanceDataAllowList
+support/container,8.0 KiB,8,/Users/yaniv/Library/Application Support/Slack/storage
+support/container,8.0 KiB,8,/Users/yaniv/Library/Containers/com.apple.assessmentagent
+support/container,8.0 KiB,8,/Users/yaniv/Library/Containers/com.apple.managedcorespotlightd
+support/container,8.0 KiB,8,/Users/yaniv/Library/Group Containers/group.com.apple.siri.GMSSELFIngestor
+support/container,8.0 KiB,8,/Users/yaniv/Library/Group Containers/group.com.apple.FileProvider.DomainCaching
+support/container,8.0 KiB,8,/Users/yaniv/Library/Group Containers/group.com.apple.NetworkAuthorization.ServerMarkers
+support/container,8.0 KiB,8,/Users/yaniv/Library/Group Containers/group.com.facebook.family
+support/container,8.0 KiB,8,/Users/yaniv/Library/Group Containers/group.net.whatsapp.WhatsApp.private
+support/container,8.0 KiB,8,/Users/yaniv/Library/Group Containers/group.is.workflow.my.app
+cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches/SentryCrash/Arc Helper
+cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches/SentryCrash/Warp
+cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches/SentryCrash/Dia
+cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches/SentryCrash/Arc
+cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches/SentryCrash/Sonos
+cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches/PassKit/RecipientCache
+cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches/com.hackemist.SDImageCache
+cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches/com.hackemist.SDImageCache/default
+cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches/segment
+cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches/segment/ewjp2RGpYO4hHSErQ3lBOOjnR0YqolJo
+cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches/com.apple.gamed
+cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches/com.apple.DictionaryServices
+cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches/com.mitchellh.ghostty/WebKit
+cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches/com.mitchellh.ghostty/sentry
+cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches/com.apple.AppleMediaServices/fpdi
+cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches/.omb/devices
+cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches/com.microsoft.edgemac/WebKit
+cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches/io.sentry/09e99d63755f0cddb4ad71f6b64d8365fd442912
+cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches/com.oracle.java.Java-Updater/WebKit
+cache-like,4.0 KiB,4,/Users/yaniv/Library/Logs/com.apple.AMPLibraryAgent
+cache-like,4.0 KiB,4,/Users/yaniv/Library/Logs/com.apple.AMPLibraryAgent/iTunes Migration
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/obs-studio/plugin_manager
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/google-heartbeat-storage
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/DiskImages
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/com.apple.ap.promotedcontentd/APPL
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/com.openai.chat/ChatGPTHelper
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/com.openai.atlas/Crashpad
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/com.openai.atlas/models-d16322da-45b7-4b7e-a1d9-318b0a3bff67
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/com.openai.atlas/profiles
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/LM Studio/Crashpad
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/Cursor/Crashpad
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/zoom.us/CefPlugin
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/Google/RLZ
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/Microsoft/DeveloperTools
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/segment/iPpQNH6wvMEPKjSpizGePwfn91Kk8ds9
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/Codex/Crashpad
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/SonosV2/anacapa
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/com.mitchellh.ghostty
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/com.operasoftware.Opera/extensions_crx_cache
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/com.operasoftware.Opera/Crash Reports
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/Code - Insiders/Crashpad
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/Microsoft Edge/OriginTrials
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/com.apple.windowmanager
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/Slack/Crashpad
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/Slack/sentry
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/com.apple.wallpaper/Store
+support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support/Alfred/Alfred.alfredpreferences
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.dp.PrivateFederatedLearning.DPMLRuntimePluginClassB
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ScreenSaver.Engine.legacyScreenSaver
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.freeform
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.settings-intents.TransferResetIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.generativeassistanttools.settingsextension.GenerativeAssistantSettingsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Network-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.SonicKit.diagnostics
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Mouse-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.tgondeviceinferenceproviderservice
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.iCal
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.journal
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.settings-intents.WallpaperIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.PDFImporter
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.priml.PFLMLHostPlugins.SiriMASPFLCK
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.AuthKit.AKDiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DiagnosticExtensions.HomeEnergyDiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.PassKit.PaymentAuthorizationUIExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.mobileslideshow.photo-picker
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ControlCenter-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.share.System.set-account-picture
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.priml.PRIMLCKPreemptivePing
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.eventMetaDataExtractor.eventMetaDataExtractorPlugin
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.RAQLThumbnailExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Stickers.UserGenerated.MessagesExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.share.System.add-to-iphoto
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DiagnosticExtensions.PICSDiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.settings.SecurityPrefQADirector.SecurityPrivacyIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.calendar.EventKitUIRemoteUIExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.settings-intents.mouse
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Home.HomeAppMessagesExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DiagnosticExtensions.CoreSensingDiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.googlecode.iterm2.iTermFileProvider
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.calculator
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DiskSpaceDiagnostics.diagnosticextension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.AvatarUI.AvatarPosterExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.siri.SiriSignals.MusicAppSelectionPFLPlugin
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.weather.WeatherAppIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.BluetoothSettings
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.extensionkit.AppExtensionManagement
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ConfigurationProfiles.FollowUp
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Time-Machine-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.FaceTime.RemotePeoplePicker
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.MediaPlayer.DiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.iBooks.BooksThumbnail
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Photos.PhotosFileProvider
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.wallpaper.extension.ca-package
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.osx-tailspin
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.weather.diagnosticextension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.siri.SiriVideoAppIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.settings-intents.ScreenSaverIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.settings-intents.LockScreenIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.siri.AssistantSettingsControls
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.mail.MailQuickLookExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.systempreferences.KeyboardSettingsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.transcriptBackgroundPoster.DynamicExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.iBooks.engagementExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.CloudSubscriptionFeatures.CSFFollowUpExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.TelephonyUtilities.PhoneIntentHandler
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.systempreferences.SharingSettingsIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.diagnosticextensions.osx.timemachine
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.findmy.FindMyNotificationsServiceExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Profiles-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.intelligenceflow.IntelligenceFlowRuntime.IntelligenceFlowDiagnostics
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.AskTo.AskToTestResponseUIExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.siri.SiriContactsIntents.ContactsIntentExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.helpviewer.HelpViewer-Quicklook
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.WalletSettingsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Users-Groups-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.eventkit.CalendarDiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.dp.PrivateFederatedLearning.DPMLRuntimePlugin
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.settings.PrivacySecurity.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.HydraQLThumbnailExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.MADViewServiceExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/oracle.documents.desktop.finder.integration
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Sound-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.iBooksX.SharingExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.zeolite.ZeoliteExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.share.System.set-desktop-image
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.siri.OnDeviceAnalytics.SpeakerIdSamplingExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.StartupDisk.StartupDiskWidgetExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Focus-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.summarization.SummarizationTool
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DEC.AppPredictionInternal.DiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.WorkflowUI.WidgetConfigurationExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.desktopsettings.DesktopSettingsIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.PeopleMessageService.LegacyMessageService
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.diagnosticextensions.osx.getmobilityinfo
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.mlhost.SampleWorker
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.zeolite.ZeoliteEvalExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.intelligenceplatform.IntelligencePlatform.DiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ClassKit.diagnosticextension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.quicklook.thumbnail.OfficeExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DiagnosticExtensions.BluetoothDiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DiagnosticExtensions.WiFi
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.GenerativePlaygroundApp.remoteUIExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.inputmethod.TransliterationIM
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DiagnosticExtensions.StorageDESSD
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.MediaMLPluginApp.MediaMLPlugin
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.siri.SiriAppLaunchIntents.AppLaunchIntentExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.BlackPowderInferenceExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.siri.SiriTTSService.STSDiagnostic
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.podcasts.MacPodcastsStorageExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.fskit.ftp
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.TransparencyUI.FollowUpExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.AppleAccountIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.AskToMessagesHost.AskToExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Batteries
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.wifi-settings-extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.quicklook.thumbnail.ClippingsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.quicklook.thumbnail.AudiovisualExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ScreenSaver.Monterey
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.siri.SiriVideoIntents.VideoIntentExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.priml.PFLMLHostPlugins.PrivateEvolutionPlugin
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.priml.PFLMLHostPlugins.AVCPlugin
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.PeopleViewService
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.SceneKitQLPreviewExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.HeadGestures.diagnosticextension.HeadGesturesDiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.CloudDocsDaemon.diagnostic
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.CloudDocsDaemon.StorageManagement
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.microsoft.Powerpoint
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.AppSSOKerberos.KerberosExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.VPNAppIntentWidget
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.screensaver.AlbumArtwork
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.HydraQLPreviewExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.PeopleMessageService.AskToBuy
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.oraclecorp.int.UnifiedLogin.EmpSafariExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.SecurityImprovements-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.settings-intents.trackpad
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.controlcenter.ControlCenterSettingsIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.AskToMessagesHost.AskToMessagesExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.icloud.SPOwner.SearchPartyDiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.inputmethod.Kotoeri.RomajiTyping
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.NetworkInfo.DiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.inputmethod.TCIM
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.networkquality.DiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.SoftwareUpdate.SoftwareUpdateSettingsWidget
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Translate.TranslationAppIntentsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/ru.keepcoder.Telegram.TelegramShare
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.accessibility.NameRecognitionNotificationsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ContactsUI.ContactViewViewService
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.podcasts.PodcastsNotificationExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.SmartReplies.SmartRepliesMLRuntimePlugin
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ClassroomDeviceExpert
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ImageIO.imageimporter
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.iBooksX.DiskSpaceEfficiency
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.aiml.mlpt.PriML.FedStats.Plugin
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.messages.StorageManagementExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.aiml.mlpt.PriML.FedStats.PluginClassB
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Time-Machine-Settings-Intents.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.settings-intents.NetworkSettingsIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.reminders.spotlightindexextension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Shell
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.WorkflowKit.ShortcutsIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.inputmethod.Korean
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Touch-ID-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.uxautomation.UIActionIntentsExt
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.CTLazuliSupport.diagnosticextension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.STMExtension.AppleInternal
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.preferencepane.security.AdvertisingExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.inputmethod.EmojiFunctionRowItem
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Spotlight-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.WatchFaceAlert.ThumbnailExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.microsoft.OneDrive.FinderSync
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.STMExtension.OtherUsers
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.SensitiveContentAnalysis.SCARemoteView.Extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.BiometricsAndPasswordSettingsAppIntentsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Feedback.DraftingExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.mobileslideshow.photospicker
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Appearance-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.CloudSharingUI.invite
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DiagnosticExtensions.WallpaperMac
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.games.ChallengesMessageExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.omniSearch.SearchToolDiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DeviceActivityUI.DeviceActivityReportService
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.HydraUSDAppIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.CommerceKit.AskPermissionExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.printcenter
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.GenerativeFunctions.GenerativeExperiencesSafetyInferenceProvider
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.diagnosticextensions.osx.installlog
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.osanalytics.IPSExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.share.Mail.compose-back-to-sender
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.CoreHapticsTools.QLPreviewExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.share.Messages.window
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.quicklook.thumbnail.CalendarExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Coverage-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.PhotoLibraryServices.PhotosDiagnostics
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Translation.TranslationAPIExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.proactive.AppleIntelligenceReportingSELFIngestor
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.CoreEmbeddedSpeechRecognition.SpeechProfileDiagnostic
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.CoreRoutine.RTDiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ContactsUI.ContactsViewService
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.CoreHapticsTools.QLThumbnailExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.microsoft.OneDrive.FileProvider
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DiagnosticExtensions.IntelligentRoutingDiagnostic
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.RelativeMotion.TempestDiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.PDFKit.PDFExtensionView
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.VoiceMemos.SpotlightIndexExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.intelligenceflow.IntelligenceFlowAppIntentsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.microsoft.edgemac.wdgExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.TV.TVStorageExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.das.DASDaemon.DuetDiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DiagnosticExtensions.MiLoDiagnostic
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DiagnosticExtensions.ConnectivityDE
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.family.FAFollowupExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.WordOfTheDay
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.findmy
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.wallpaper.extension.ventura
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.siri.SiriTimeInternal.AlarmIntentsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.iCloudQuota.ICQFollowup
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.CD-DVD-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.wallpaper.agent.WallpaperIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.systempreferences.AboutSettingsIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ExtensionsPreferences
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DiagnosticExtensions.HIDSensingDiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.TransparencySettingsIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.TranslationUIServices.TranslationUIService
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DiagnosticExtensions.IMDiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DiagnosticExtensions.AppleBtcDiagnosis
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DiagnosticExtensions.ConnectivityWiFiDE
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.VideoSubscriberAccount.VideoSubscriberAccountUIFramework.AuthenticationExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.quicklook.thumbnail.ContactExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.CoreSpotlight.ImportExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.GenerativeFunctions.GenerativeExperiencesRuntime.GenerativeModelsDiagnostics
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.WritingTools.WritingToolsAppIntentsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Date-Time-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.PassbookUIService.PeerPaymentMessagesExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DiagnosticExtensions.shortcuts
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.NetworkExtensionSettingsUI.NESettingsUIExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.shortcuts.QuickLookExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.priml.PFLMLHostPlugins.SiriMASPFLPush
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Game-Controller-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.AskToViewExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.iCal.CalendarNotificationContentExtention-OSX
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.PeopleMessageService.ScreenTime
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.CloudDocs.MobileDocumentsFileProviderManaged
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ScreenSaver.Computer-Name
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.microsoft.Excel.widgetextension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ImagePlayground.NonUIExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.QuickLookUIFramework.QLPreviewGenerationExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.MarkupUI.MarkupPhotoExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.dp.PrivateFederatedLearning.DPMLRuntimePluginNonDnU
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.donotdisturb.DoNotDisturbAppIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.cloudos.PCCAgentClientExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.podcasts.MacQuicklookExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.HomeKitEvents.HomeKitEventsDiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Notifications-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Classroom-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.MarkupUI.Markup
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.STMExtension.Trash
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.diagnosticextensions.osx.syslog
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.shortcuts.ThumbnailExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.vmware.hub.mac.PreviewExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.systempreferences.InternationalSettingsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ScreenSaver.Drift
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.STMExtension.iOSFiles
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.settings-intents.AirDropHandoffIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Home.PrivacySettingsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.STMExtension.Applications
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.siri.parsec.HashtagImagesApp.HashtagImagesExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.FaceTime.IntentsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DoNotDisturb.Intents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.PDFKit.PDFImporter
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.GenerativePlaygroundApp.GenerativePlaygroundAppIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.settings.Storage
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DiagnosticExtensions.ToolKit.shortcuts
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.reminders
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.helpviewer
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.lighthouse.IEMetricsWorker
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Home.HomeUIUserList
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.LighthouseBitacoraFramework.LighthouseBitacoraPlugin
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.AuthKitUI.AKAppSSOExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.settings-intents.AppearanceIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.siri.car.PnRCarPlayOnDeviceWorker
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.quicklook.thumbnail.ImageExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.oraclecorp.int.OracleSiteBlocker.Extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.transcriptBackgroundPoster.GradientExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Startup-Disk-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.InferenceProviderService
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.fskit.msdos
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.NewDeviceOutreachMac.Extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.shortcuts.Run-Workflow
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.generativeassistanttools.GenerativeAssistantExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DiagnosticExtensions.ScreenTime
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DiagnosticExtensions.StorageDESDXC
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.settings-intents.LoginItemsIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Music.MusicStorageExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.SystemProfiler.AboutExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Desktop-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.siri.SiriGeo.SiriGeoIntentExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Photos.StorageManagementExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.mapkit.private.RemoteUI
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.HostInferenceProviderService
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.diagnosticextensions.osx.systemprofile
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Family-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.AppleMediaServices.FollowUpExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.NewDeviceOutreach.NewDeviceOutreachIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Safari.DiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.iCal.FaceTimeExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Software-Update-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Game-Center-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Safari.SafariQuickLookPreview
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.GenerativePlaygroundApp.MessagesExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.UIUnderstanding.diagnosticextension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.diagnosticextensions.osx.filevault
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.cloudml.inference.PrivateMLClientInferenceProviderService
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.freeform.USDRendererExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.settings-intents.PrinterScannerIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.share.AirDrop.send
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.inputmethod.VietnameseIM
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.PhotosIntelligence.PhotosStoryDiagnostics
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.siri.inference.SiriInference.SiriInferenceRuntimeDiagnostics
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.WiFiVelocity.DiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.messages.ShareExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Animoji.StickersApp.MessagesExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DiagnosticExtensions.sysdiagnose
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.settings.Storage.StorageSettingsIntentsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ScreenSaver.Engine.legacyScreenSaver.x86-64
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.STMExtension.Mail
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.LoginItems-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ScreenSaver-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.siri.SiriPrivateLearningAnalytics.SiriUserSegments.Plugin
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.family.FamilyIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.batteryui.BatterySettingsIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Photos.MacMusicPickerExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.CloudSharingUI.CreateiCloudLinkExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.SceneKitQLThumbnailExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.PhotosUIPrivate.PhotosPosterProvider
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ibooks.BookLibraryCore.BooksAskPermissionExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.BiometricKit.BioLogDiagnostic
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.AVConference.Diagnostic
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.STMExtension.Developer
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.inputmethod.ChineseHandwriting
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.StoreKit.SKAskPermissionExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.inputmethod.SCIM
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Screen-Time-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.wallpaper.extension.monterey
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ImagePlayground.DiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.STMExtension.GarageBand
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.AskToExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ScreenSaver.iLife-Slideshow-Extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.weather
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.WorkflowUI.CatalystContentExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.siri.parsec.CoreParsec.SearchPoirotExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.findmy.FindMyCoreFollowUpExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.priml.PFLMLHostPlugins.FedAutoEvalPlugin
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.freeform.sharingextension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.CoreMotionFoundationModelExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.siri.SiriIdentityInternal.IdentityIntentExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.microsoft.Powerpoint.widgetextension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.quicklook.thumbnail.PackageExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.podcasts
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.tips.TipsAppQuicklook-macOS
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.TextToSpeechVoiceBankingSupport.VoiceBankingDiagnostics
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.shortcuts
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.MobileAddressBook.RemoteCatalystPosterExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Profiles-Settings.intents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Passwords-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Flurry
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.FamilyExtensionHost.FamilyOutOfProcessUIExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.AppStoreDaemon.ASDAskPermissionExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.microsoft.Word.widgetextension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Accessibility-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.biome.BiomeStreams.BiomeLighthousePlugin
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.inputmethod.Kotoeri.KanaTyping
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.wifiqa.NPTKit.NPTWiFiDiagnosticsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.siri.AudioAppIntentsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.quicklook.thumbnail.FontExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.intelligenceplatform.IntelligencePlatform.IntelligencePlatformDataActionsAppIntentsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.TransparencyUI.SWTFollowUpExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.journal.JournalShareExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Translation.TranslationAPISupportExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.UniversalAccess.UASettingsShortcuts
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.siri.SiriTimeInternal.TimerIntentsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.HomeAppIntentsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.tips.TipsQuicklook
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Lock-Screen-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Battery-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Home.HomeDiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ScreenSaver.Hello
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.diagnosticextensions.osx.spotlight
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.AccountsUISettings.AppIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.priml.PFLMLHostPlugins.SiriAutoEvalPlugin
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Localization-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.systempreferences.DisplaysSettingsIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.PaperKit.Extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.quicklook.thumbnail.WebExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.FaceTime.ShareExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.MobileSMS.MessagesPluginNotificationExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.RAQLPreviewExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.VoiceMemos.VoiceMemosIntentsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.HomeKit.HomeKitCustomerDiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.NetworkEndpointPickerUI.DDUIExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Trackpad-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.CoreEmbeddedSpeechRecognition.SpeechAudioDiagnostic
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.HeadphoneSettings
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.siri.SiriSettingsIntents.SettingsIntentExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.aiml.mlpt.PriML.FedStats.PluginNonDnU
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Spotlight-Settings.extension.SpotlightSettingsIntentsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ScreenTimeSwift.ScreenTimeDeviceActivityMonitorExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Print-Scan-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Transfer-Reset-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/net.whatsapp.WhatsApp.Intents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.siri.OnDeviceAnalytics.SiriAttentionAndInvocationExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.iBooksX.CacheDelete
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.settings-intents.UsersGroupsIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.NetworkExtension.IKEv2Provider
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.share.System.add-to-safari-reading-list
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.siriplugin.FileSearch
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ClassKit.ClassKitAppIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.AuthKitUI.AKFollowUpServerUIExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.share.Mail.compose
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Wallpaper-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.MailShareExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.gamecenter.GameCenterUIService.GameCenterMessageExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Home.HomeWidgetIntentsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.MediaRemoteAppIntentsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.clock
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.CloudDocs.iCloudDriveFileProviderManaged
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.GameCenter.Settings.DeviceExpertExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.inputmethod.TYIM
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.microsoft.onenote.mac.shareextension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.preferences.sharing.SharingPrefsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.CalendarUI.SpotlightEventPreview
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ibooks.BookLibrary.BooksDiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.replayKit.RPBroadcastActivityExtension-macOS
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.BluetoothSettingsApp.BluetoothSettingsAppIntentsWidget
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.WorkflowUI.AddShortcutExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.GameCenterDiagnosticExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Notes.SharingExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.fskit.exfat
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.PaperKit.extension.ui
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.VisualGeneration.inference
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.openai.chat.Widgets
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.mobiletimer.ClockAppIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.AirDrop-Handoff-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.messages.ReplyExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ActionKit.BundledIntentHandler
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.OFDPreview
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.icloud.apps.messages.business.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.notifications.NotificationsSettingsIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.reminders.sharingextension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.OFDThumbnail
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.findmy.FindMyIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DiagnosticExtensions.AirPlay
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Siri-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.FileProviderDaemon.diagnostic
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ScreenTime.ScreenTimeWebExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.iCloudDriveCore.diagnostic
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.calls.PhoneAppIntentsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.iBooks.BooksNotificationContentExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.replayKit.RPVideoEditorExtension-macOS
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.quicklook.thumbnail.TextExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.mail.MailNotificationContentExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.settings-intents.DateTimeIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Notes.QuickLookExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.DiagnosticExtensions.BluetoothHeadset
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Arabesque
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.contacts.ContactsAppIntentsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ap.PromotedContentPrediction.APOdmlSearchResultsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.CloudSharingUI.CopyLink
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.ScreenTimeUI.ScreenTimeReportExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.adattributionkit.AAKPriMLPlugin
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.microsoft.rdc.macos.qlx
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.Sharing-Settings.extension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Containers/com.apple.reminders.quicklookextension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/group.com.apple.ScreenTime
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/group.net.whatsapp.WhatsAppSMB.shared
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/UBF8T346G9.OfficeOsfWebHost
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram.FocusIntents
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/X9E956P446.com.crowdstrike.falcon
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/com.apple.siri.ODDIPoirotMetricsExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/group.com.apple.uiunderstanding
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/.SiriTodayViewExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/group.net.whatsapp.family
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/group.com.apple.poirot.MessagesAnalyticsWorker
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/group.com.apple.KerberosExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/group.com.apple.helpviewer.content
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/group.com.apple.GenerativePlayground
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/group.com.apple.notes.import
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/BJ4HAAB9B3.ZoomClient3rd
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/52QHD847TQ.group.oraclecorp.int.UnifiedLogin.EmpSafariExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/group.com.apple.ip.redirects
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/com.apple.poirot.poirot_tool
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/XS85JU6YZ3.com.eltima.cmd1.mas
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/group.com.apple.mobileslideshow.PhotosFileProvider
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/com.apple.siri.ODDExperimentationExtension
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/group.com.apple.printcenter
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/UBF8T346G9.OfficePPTWidget
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/UBF8T346G9.OfficeOneDriveSyncIntegration
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/com.apple.spotlightui
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/com.apple.icloud.searchpartyd.container.appGroup
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/com.apple.SonicKit
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/H7V7XYVQ7D.iTerm
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/group.com.apple.CloudDocs
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram.TelegramShare
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/group.com.apple.freeform
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/group.com.apple.notesdebug
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/group.com.apple.Maps
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/group.com.apple.icloud.fm
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/UBF8T346G9.com.microsoft.entrabroker
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/group.com.apple.ScreenContinuityServices
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/group.is.workflow.shortcuts
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/group.com.apple.people
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/group.com.apple.inputmethod.chineseim
+support/container,4.0 KiB,4,/Users/yaniv/Library/Group Containers/UBF8T346G9.group.com.microsoft.shared
