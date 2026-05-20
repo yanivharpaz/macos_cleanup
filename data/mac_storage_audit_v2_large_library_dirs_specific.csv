@@ -1,16 +1,16 @@
 kind,size,size_kb,root,depth,path,nested_under,rollup_parent
-support/container,8.2 GiB,8580572,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Google/Chrome,/Users/yaniv/Library/Application Support/Google,false
+support/container,8.2 GiB,8588028,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Google/Chrome,/Users/yaniv/Library/Application Support/Google,false
 support/container,4.6 GiB,4801208,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Google/Chrome Canary,/Users/yaniv/Library/Application Support/Google,false
-cache-like,3.2 GiB,3375620,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/Google/Chrome,/Users/yaniv/Library/Caches/Google,false
+cache-like,3.2 GiB,3378516,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/Google/Chrome,/Users/yaniv/Library/Caches/Google,false
 support/container,2.3 GiB,2383464,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/rancher-desktop/lima,/Users/yaniv/Library/Application Support/rancher-desktop,false
 support/container,1.5 GiB,1579396,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/BraveSoftware/Brave-Browser,/Users/yaniv/Library/Application Support/BraveSoftware,false
 support/container,1.5 GiB,1533476,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/com.apple.wallpaper/aerials,/Users/yaniv/Library/Application Support/com.apple.wallpaper,false
-support/container,1.4 GiB,1468936,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Google/GoogleUpdater,/Users/yaniv/Library/Application Support/Google,false
+support/container,1.4 GiB,1469000,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Google/GoogleUpdater,/Users/yaniv/Library/Application Support/Google,false
 cache-like,1.4 GiB,1451620,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/Arc/User Data,/Users/yaniv/Library/Caches/Arc,false
 support/container,1.3 GiB,1408196,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Microsoft/EdgeUpdater,/Users/yaniv/Library/Application Support/Microsoft,false
 cache-like,1.2 GiB,1242420,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/rancher-desktop-updater,,false
 support/container,1.0 GiB,1071516,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Microsoft Edge/Default,/Users/yaniv/Library/Application Support/Microsoft Edge,false
-support/container,913.3 MiB,935224,/Users/yaniv/Library/Group Containers,1,/Users/yaniv/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram,,false
+support/container,913.4 MiB,935352,/Users/yaniv/Library/Group Containers,1,/Users/yaniv/Library/Group Containers/6N38VWS5BX.ru.keepcoder.Telegram,,false
 cache-like,898.5 MiB,920104,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code - Insiders/CachedExtensionVSIXs,/Users/yaniv/Library/Application Support/Code - Insiders,false
 cache-like,791.2 MiB,810152,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/com.openai.codex/org.sparkle-project.Sparkle,/Users/yaniv/Library/Caches/com.openai.codex,false
 support/container,759.7 MiB,777976,/Users/yaniv/Library/Group Containers,1,/Users/yaniv/Library/Group Containers/UBF8T346G9.Office,,false
@@ -24,18 +24,19 @@ cache-like,483.4 MiB,495024,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/C
 support/container,477.9 MiB,489336,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.mediaanalysisd,,false
 cache-like,398.8 MiB,408340,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/Microsoft Edge/Default,/Users/yaniv/Library/Caches/Microsoft Edge,false
 cache-like,394.3 MiB,403784,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/Firefox/Profiles,/Users/yaniv/Library/Caches/Firefox,false
-cache-like,372.2 MiB,381112,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code/CachedExtensionVSIXs,/Users/yaniv/Library/Application Support/Code,false
+cache-like,373.0 MiB,381996,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code/CachedExtensionVSIXs,/Users/yaniv/Library/Application Support/Code,false
 cache-like,300.7 MiB,307928,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/com.apple.callintelligenced/com.apple.e5rt.e5bundlecache,/Users/yaniv/Library/Caches/com.apple.callintelligenced,false
 cache-like,300.7 MiB,307928,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/com.apple.textunderstandingd/com.apple.e5rt.e5bundlecache,/Users/yaniv/Library/Caches/com.apple.textunderstandingd,false
 support/container,219.0 MiB,224260,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/net.whatsapp.WhatsApp,,false
-support/container,198.2 MiB,202996,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.geod,,false
+support/container,198.5 MiB,203308,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.geod,,false
 cache-like,193.5 MiB,198156,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/com.oracle.java.JavaAppletPlugin/org.sparkle-project.Sparkle,/Users/yaniv/Library/Caches/com.oracle.java.JavaAppletPlugin,false
 cache-like,183.7 MiB,188096,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/rancher-desktop/k3s,/Users/yaniv/Library/Caches/rancher-desktop,false
+support/container,176.8 MiB,181060,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Dia/User Data,/Users/yaniv/Library/Application Support/Dia,false
 cache-like,176.7 MiB,180900,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Microsoft Edge/component_crx_cache,/Users/yaniv/Library/Application Support/Microsoft Edge,false
 support/container,169.1 MiB,173144,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/zoom.us/asr,/Users/yaniv/Library/Application Support/zoom.us,false
 support/container,168.6 MiB,172644,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Microsoft Edge/ProvenanceData,/Users/yaniv/Library/Application Support/Microsoft Edge,false
 support/container,162.0 MiB,165848,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/zoom.us/data,/Users/yaniv/Library/Application Support/zoom.us,false
-cache-like,158.5 MiB,162328,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code/Cache,/Users/yaniv/Library/Application Support/Code,false
+cache-like,159.3 MiB,163116,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code/Cache,/Users/yaniv/Library/Application Support/Code,false
 cache-like,157.5 MiB,161292,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/BraveSoftware/Brave-Browser,/Users/yaniv/Library/Caches/BraveSoftware,false
 cache-like,156.0 MiB,159716,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/com.operasoftware.Opera/Default,/Users/yaniv/Library/Caches/com.operasoftware.Opera,false
 support/container,154.1 MiB,157748,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.wallpaper.extension.image,,false
@@ -43,12 +44,11 @@ cache-like,148.4 MiB,151964,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/C
 cache-like,144.7 MiB,148172,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/company.thebrowser.dia/ModelFileCache,/Users/yaniv/Library/Caches/company.thebrowser.dia,false
 support/container,138.8 MiB,142080,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code - Insiders/blob_storage,/Users/yaniv/Library/Application Support/Code - Insiders,false
 support/container,132.0 MiB,135148,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/com.openai.atlas/browser-data,/Users/yaniv/Library/Application Support/com.openai.atlas,false
-support/container,119.6 MiB,122448,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Dia/User Data,/Users/yaniv/Library/Application Support/Dia,false
 support/container,112.8 MiB,115488,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/ru.keepcoder.Telegram,,false
 support/container,105.5 MiB,108080,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.microsoft.Word,,false
 support/container,104.3 MiB,106852,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.microsoft.Outlook,,false
 support/container,91.4 MiB,93580,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.photoanalysisd,,false
-cache-like,91.0 MiB,93200,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code/CachedData,/Users/yaniv/Library/Application Support/Code,false
+cache-like,91.2 MiB,93424,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code/CachedData,/Users/yaniv/Library/Application Support/Code,false
 support/container,84.5 MiB,86544,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.wallpaper.agent,,false
 cache-like,83.1 MiB,85056,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Microsoft Edge/extensions_crx_cache,/Users/yaniv/Library/Application Support/Microsoft Edge,false
 support/container,82.8 MiB,84820,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/com.operasoftware.Opera/Default,/Users/yaniv/Library/Application Support/com.operasoftware.Opera,false
@@ -57,7 +57,7 @@ support/container,75.3 MiB,77076,/Users/yaniv/Library/Application Support,2,/Use
 cache-like,75.1 MiB,76908,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Comet/extensions_crx_cache,/Users/yaniv/Library/Application Support/Comet,false
 cache-like,59.1 MiB,60476,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/.omb/logs,/Users/yaniv/Library/Caches/.omb,false
 cache-like,53.9 MiB,55204,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/GeoServices/Resources,/Users/yaniv/Library/Caches/GeoServices,false
-support/container,53.4 MiB,54712,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code/WebStorage,/Users/yaniv/Library/Application Support/Code,false
+support/container,53.5 MiB,54788,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code/WebStorage,/Users/yaniv/Library/Application Support/Code,false
 cache-like,47.1 MiB,48272,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Comet/component_crx_cache,/Users/yaniv/Library/Application Support/Comet,false
 cache-like,46.4 MiB,47528,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/Homebrew/api,/Users/yaniv/Library/Caches/Homebrew,false
 support/container,46.3 MiB,47404,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.microsoft.Excel,,false
@@ -66,6 +66,7 @@ cache-like,38.9 MiB,39792,/Users/yaniv/Library/Application Support,2,/Users/yani
 support/container,38.5 MiB,39444,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.AvatarUI.AvatarPickerMemojiPicker,,false
 support/container,35.6 MiB,36416,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.AppStore,,false
 support/container,31.5 MiB,32212,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/OneDrive/settings,/Users/yaniv/Library/Application Support/OneDrive,false
+cache-like,29.9 MiB,30600,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/Dia/User Data,/Users/yaniv/Library/Caches/Dia,false
 cache-like,28.0 MiB,28668,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/com.apple.e5rt.e5bundlecache/25E253,/Users/yaniv/Library/Caches/com.apple.e5rt.e5bundlecache,false
 cache-like,27.6 MiB,28236,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code - Insiders/Cache,/Users/yaniv/Library/Application Support/Code - Insiders,false
 support/container,22.6 MiB,23172,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Comet/WasmTtsEngine,/Users/yaniv/Library/Application Support/Comet,false
@@ -73,8 +74,8 @@ support/container,20.9 MiB,21444,/Users/yaniv/Library/Application Support,2,/Use
 cache-like,19.2 MiB,19668,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/Google/Chrome Canary,/Users/yaniv/Library/Caches/Google,false
 cache-like,19.0 MiB,19484,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/com.apple.helpd/Generated,/Users/yaniv/Library/Caches/com.apple.helpd,false
 cache-like,18.4 MiB,18796,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/com.operasoftware.Opera/component_crx_cache,/Users/yaniv/Library/Application Support/com.operasoftware.Opera,false
-cache-like,18.3 MiB,18772,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/Dia/User Data,/Users/yaniv/Library/Caches/Dia,false
 support/container,18.1 MiB,18536,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/com.operasoftware.Opera/adblocker_data,/Users/yaniv/Library/Application Support/com.operasoftware.Opera,false
+support/container,17.7 MiB,18160,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code/blob_storage,/Users/yaniv/Library/Application Support/Code,false
 support/container,17.2 MiB,17600,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Comet/WidevineCdm,/Users/yaniv/Library/Application Support/Comet,false
 support/container,16.9 MiB,17284,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Comet/Safe Browsing,/Users/yaniv/Library/Application Support/Comet,false
 support/container,16.7 MiB,17132,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Microsoft Edge/WidevineCdm,/Users/yaniv/Library/Application Support/Microsoft Edge,false
@@ -85,12 +86,11 @@ cache-like,15.1 MiB,15504,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Cac
 cache-like,14.5 MiB,14872,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/Homebrew/bootsnap,/Users/yaniv/Library/Caches/Homebrew,false
 support/container,14.5 MiB,14868,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Microsoft Edge/Edge Wallet,/Users/yaniv/Library/Application Support/Microsoft Edge,false
 support/container,13.6 MiB,13880,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/rancher-desktop/electron,/Users/yaniv/Library/Application Support/rancher-desktop,false
-support/container,13.3 MiB,13620,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code/blob_storage,/Users/yaniv/Library/Application Support/Code,false
 support/container,13.0 MiB,13268,/Users/yaniv/Library/Group Containers,1,/Users/yaniv/Library/Group Containers/group.com.apple.CoreSpeech,,false
 cache-like,12.8 MiB,13116,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/com.openai.atlas/browser-data,/Users/yaniv/Library/Caches/com.openai.atlas,false
 cache-like,12.2 MiB,12508,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Microsoft Edge/GraphiteDawnCache,/Users/yaniv/Library/Application Support/Microsoft Edge,false
 cache-like,12.2 MiB,12480,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/com.apple.TV,,false
-support/container,11.9 MiB,12232,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.oraclecorp.int.UnifiedLogin,,false
+support/container,12.0 MiB,12336,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.oraclecorp.int.UnifiedLogin,,false
 cache-like,11.6 MiB,11884,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/com.apple.helpd/NSFileProtectionCompleteUntilFirstUserAuthentication,/Users/yaniv/Library/Caches/com.apple.helpd,false
 cache-like,11.4 MiB,11708,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code - Insiders/CachedData,/Users/yaniv/Library/Application Support/Code - Insiders,false
 cache-like,10.6 MiB,10840,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/com.apple.CloudTelemetry/XPCService,/Users/yaniv/Library/Caches/com.apple.CloudTelemetry,false
@@ -110,7 +110,7 @@ support/container,6.8 MiB,6916,/Users/yaniv/Library/Containers,1,/Users/yaniv/Li
 cache-like,6.7 MiB,6812,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/com.microsoft.SharePoint-mac/fsCachedData,/Users/yaniv/Library/Caches/com.microsoft.SharePoint-mac,false
 support/container,6.6 MiB,6740,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.mediastream.mstreamd,,false
 cache-like,6.6 MiB,6736,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Comet/Crashpad,/Users/yaniv/Library/Application Support/Comet,false
-cache-like,6.4 MiB,6600,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/com.openai.chat,,false
+cache-like,6.5 MiB,6612,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/com.openai.chat,,false
 cache-like,6.4 MiB,6568,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/com.apple.amsengagementd,,false
 cache-like,6.2 MiB,6372,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/com.apple.ctcategories.service,,false
 support/container,6.1 MiB,6280,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.Preview,,false
@@ -132,8 +132,8 @@ cache-like,5.0 MiB,5124,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Cache
 support/container,5.0 MiB,5116,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.ScreenTimeWidgetApplication.ScreenTimeWidgetExtension,,false
 support/container,5.0 MiB,5080,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.systempreferences.AppleIDSettings,,false
 cache-like,4.5 MiB,4640,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/Arc/EaselImagesCache,/Users/yaniv/Library/Caches/Arc,false
+support/container,4.4 MiB,4536,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/com.openai.chat/conversations-v3-7fb09b21-c400-4a68-a7f3-1f94a035df42,/Users/yaniv/Library/Application Support/com.openai.chat,false
 cache-like,4.3 MiB,4372,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/com.apple.storekitagent,,false
-support/container,4.2 MiB,4256,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/com.openai.chat/conversations-v3-7fb09b21-c400-4a68-a7f3-1f94a035df42,/Users/yaniv/Library/Application Support/com.openai.chat,false
 cache-like,4.2 MiB,4252,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/com.apple.FeatureAccessAgent,,false
 cache-like,4.1 MiB,4188,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/com.microsoft.SyncReporter,,false
 cache-like,4.1 MiB,4148,/Users/yaniv/Library/HTTPStorages,1,/Users/yaniv/Library/HTTPStorages/com.openai.chat,,false
@@ -184,6 +184,7 @@ cache-like,2.1 MiB,2132,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Cache
 cache-like,2.1 MiB,2132,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/com.microsoft.VSCode,,false
 cache-like,2.1 MiB,2132,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/com.adobe.acrobat.AcroPatchInstall,,false
 cache-like,2.1 MiB,2120,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/com.apple.geoanalyticsd,,false
+cache-like,2.1 MiB,2120,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code/logs,/Users/yaniv/Library/Application Support/Code,false
 support/container,2.1 MiB,2112,/Users/yaniv/Library/Application Support,1,/Users/yaniv/Library/Application Support/com.apple.siri.inference,,false
 cache-like,2.1 MiB,2100,/Users/yaniv/Library/HTTPStorages,1,/Users/yaniv/Library/HTTPStorages/com.google.GoogleUpdater,,false
 cache-like,2.1 MiB,2100,/Users/yaniv/Library/HTTPStorages,1,/Users/yaniv/Library/HTTPStorages/com.apple.nbagent,,false
@@ -204,20 +205,19 @@ support/container,1.7 MiB,1704,/Users/yaniv/Library/Application Support,2,/Users
 support/container,1.7 MiB,1692,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Microsoft Edge/Typosquatting,/Users/yaniv/Library/Application Support/Microsoft Edge,false
 support/container,1.6 MiB,1664,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Comet/ZxcvbnData,/Users/yaniv/Library/Application Support/Comet,false
 support/container,1.6 MiB,1652,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/com.openai.atlas/statsig,/Users/yaniv/Library/Application Support/com.openai.atlas,false
-cache-like,1.6 MiB,1636,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code/CachedProfilesData,/Users/yaniv/Library/Application Support/Code,false
 cache-like,1.6 MiB,1608,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/LM Studio/GPUCache,/Users/yaniv/Library/Application Support/LM Studio,false
 cache-like,1.5 MiB,1584,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/com.apple.AppleMediaServices/Metrics,/Users/yaniv/Library/Caches/com.apple.AppleMediaServices,false
 support/container,1.5 MiB,1512,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.podcasts.widget,,false
-support/container,1.4 MiB,1472,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code/User,/Users/yaniv/Library/Application Support/Code,false
+support/container,1.5 MiB,1496,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code/User,/Users/yaniv/Library/Application Support/Code,false
 cache-like,1.4 MiB,1464,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/com.apple.passd,,false
 support/container,1.4 MiB,1436,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Microsoft Edge/ProvenanceDataTensors,/Users/yaniv/Library/Application Support/Microsoft Edge,false
 support/container,1.4 MiB,1412,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.systempreferences.SpotlightIndexExtension,,false
 support/container,1.4 MiB,1412,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.systempreferences,,false
 support/container,1.4 MiB,1408,/Users/yaniv/Library/Group Containers,1,/Users/yaniv/Library/Group Containers/UBF8T346G9.com.microsoft.rdc,,false
-cache-like,1.4 MiB,1384,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code/logs,/Users/yaniv/Library/Application Support/Code,false
 cache-like,1.3 MiB,1300,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/Animoji,,false
 cache-like,1.2 MiB,1240,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code/Crashpad,/Users/yaniv/Library/Application Support/Code,false
 cache-like,1.2 MiB,1236,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/com.sonos.macController2,,false
+cache-like,1.2 MiB,1188,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code/CachedProfilesData,/Users/yaniv/Library/Application Support/Code,false
 cache-like,1.2 MiB,1180,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code - Insiders/CachedProfilesData,/Users/yaniv/Library/Application Support/Code - Insiders,false
 support/container,1.1 MiB,1144,/Users/yaniv/Library/Group Containers,1,/Users/yaniv/Library/Group Containers/73YQY62QM3.com.displaylink.DisplayLinkShared,,false
 support/container,1.1 MiB,1136,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.tips,,false
@@ -235,10 +235,10 @@ cache-like,996.0 KiB,996,/Users/yaniv/Library/Application Support,2,/Users/yaniv
 support/container,992.0 KiB,992,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/com.apple.ap.promotedcontentd/APDB,/Users/yaniv/Library/Application Support/com.apple.ap.promotedcontentd,false
 support/container,960.0 KiB,960,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Comet/AutofillStates,/Users/yaniv/Library/Application Support/Comet,false
 cache-like,900.0 KiB,900,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/com.apple.AppleMediaServices/Engagement,/Users/yaniv/Library/Caches/com.apple.AppleMediaServices,false
-support/container,900.0 KiB,900,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.Photos.PhotosReliveWidget,,false
 cache-like,884.0 KiB,884,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/com.apple.AppleMediaServices/com.apple.AppleMediaServicesKit,/Users/yaniv/Library/Caches/com.apple.AppleMediaServices,false
 cache-like,872.0 KiB,872,/Users/yaniv/Library/HTTPStorages,1,/Users/yaniv/Library/HTTPStorages/com.apple.ciphermld,,false
 cache-like,864.0 KiB,864,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/com.apple.Family-Settings.extension,,false
+support/container,864.0 KiB,864,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.Photos.PhotosReliveWidget,,false
 cache-like,856.0 KiB,856,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/com.apple.AppleMediaServices/private-identifiers,/Users/yaniv/Library/Caches/com.apple.AppleMediaServices,false
 support/container,832.0 KiB,832,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.stocks.detailintents,,false
 cache-like,816.0 KiB,816,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/com.apple.helpd/NSFileProtectionComplete,/Users/yaniv/Library/Caches/com.apple.helpd,false
@@ -271,6 +271,7 @@ cache-like,596.0 KiB,596,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Cach
 cache-like,592.0 KiB,592,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/com.apple.appstore/CommerceRequestCache,/Users/yaniv/Library/Caches/com.apple.appstore,false
 cache-like,588.0 KiB,588,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/com.apple.translationd,,false
 cache-like,576.0 KiB,576,/Users/yaniv/Library/WebKit,2,/Users/yaniv/Library/WebKit/us.zoom.xos/WebsiteData,/Users/yaniv/Library/WebKit/us.zoom.xos,false
+cache-like,564.0 KiB,564,/Users/yaniv/Library/HTTPStorages,1,/Users/yaniv/Library/HTTPStorages/com.apple.AddressBookSourceSync,,false
 cache-like,552.0 KiB,552,/Users/yaniv/Library/HTTPStorages,1,/Users/yaniv/Library/HTTPStorages/company.thebrowser.Browser,,false
 cache-like,548.0 KiB,548,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/LM Studio/DawnGraphiteCache,/Users/yaniv/Library/Application Support/LM Studio,false
 cache-like,548.0 KiB,548,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/LM Studio/DawnWebGPUCache,/Users/yaniv/Library/Application Support/LM Studio,false
@@ -301,7 +302,6 @@ support/container,532.0 KiB,532,/Users/yaniv/Library/Application Support,2,/User
 cache-like,520.0 KiB,520,/Users/yaniv/Library/WebKit,2,/Users/yaniv/Library/WebKit/com.mitchellh.ghostty/WebsiteData,/Users/yaniv/Library/WebKit/com.mitchellh.ghostty,false
 support/container,508.0 KiB,508,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/SonosV2/jffs,/Users/yaniv/Library/Application Support/SonosV2,false
 support/container,504.0 KiB,504,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.PeopleViewService.PeopleWidget-macOS,,false
-cache-like,500.0 KiB,500,/Users/yaniv/Library/HTTPStorages,1,/Users/yaniv/Library/HTTPStorages/com.apple.AddressBookSourceSync,,false
 support/container,500.0 KiB,500,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/obs-studio/profiler_data,/Users/yaniv/Library/Application Support/obs-studio,false
 support/container,500.0 KiB,500,/Users/yaniv/Library/Application Support,1,/Users/yaniv/Library/Application Support/F5 EPI,,false
 cache-like,488.0 KiB,488,/Users/yaniv/Library/HTTPStorages,1,/Users/yaniv/Library/HTTPStorages/familycircled,,false
@@ -330,25 +330,26 @@ support/container,348.0 KiB,348,/Users/yaniv/Library/Application Support,2,/User
 cache-like,344.0 KiB,344,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/mbuseragent,,false
 support/container,344.0 KiB,344,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.CloudDocs.iCloudDriveFileProvider,,false
 cache-like,340.0 KiB,340,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/com.todesktop.230313mzl4w4u92,,false
+support/container,340.0 KiB,340,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Dia/AgentServer,/Users/yaniv/Library/Application Support/Dia,false
 cache-like,336.0 KiB,336,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.Safari.CacheDeleteExtension,,false
 support/container,320.0 KiB,320,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.Notes.WidgetExtension,,false
 support/container,304.0 KiB,304,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/obs-studio/plugin_config,/Users/yaniv/Library/Application Support/obs-studio,false
 support/container,304.0 KiB,304,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Codex/Local Storage,/Users/yaniv/Library/Application Support/Codex,false
 support/container,300.0 KiB,300,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/com.apple.control-center.tips/.tipkit,/Users/yaniv/Library/Application Support/com.apple.control-center.tips,false
 cache-like,300.0 KiB,300,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/LM Studio/Cache,/Users/yaniv/Library/Application Support/LM Studio,false
+support/container,300.0 KiB,300,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code/Local Storage,/Users/yaniv/Library/Application Support/Code,false
 cache-like,296.0 KiB,296,/Users/yaniv/Library/HTTPStorages,1,/Users/yaniv/Library/HTTPStorages/com.adobe.ARMDC,,false
 cache-like,296.0 KiB,296,/Users/yaniv/Library/HTTPStorages,1,/Users/yaniv/Library/HTTPStorages/com.apple.siriknowledged,,false
 cache-like,296.0 KiB,296,/Users/yaniv/Library/HTTPStorages,1,/Users/yaniv/Library/HTTPStorages/com.adobe.acrobat.AcroPatchInstall,,false
 cache-like,292.0 KiB,292,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Rancher Desktop/Cache,/Users/yaniv/Library/Application Support/Rancher Desktop,false
-support/container,292.0 KiB,292,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code/Local Storage,/Users/yaniv/Library/Application Support/Code,false
 cache-like,288.0 KiB,288,/Users/yaniv/Library/Logs,1,/Users/yaniv/Library/Logs/rancher-desktop,,false
 cache-like,284.0 KiB,284,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/com.apple.python/Users,/Users/yaniv/Library/Caches/com.apple.python,false
 support/container,284.0 KiB,284,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Microsoft Edge/PKIMetadata,/Users/yaniv/Library/Application Support/Microsoft Edge,false
-support/container,284.0 KiB,284,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Dia/AgentServer,/Users/yaniv/Library/Application Support/Dia,false
 support/container,284.0 KiB,284,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.UsageTrackingAgent,,false
 cache-like,276.0 KiB,276,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/com.google.GoogleUpdater,,false
 cache-like,276.0 KiB,276,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/com.tinyspeck.slackmacgap,,false
 support/container,276.0 KiB,276,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.SafariPlatformSupport.Helper,,false
+cache-like,260.0 KiB,260,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/company.thebrowser.dia/fsCachedData,/Users/yaniv/Library/Caches/company.thebrowser.dia,false
 support/container,256.0 KiB,256,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Comet/Subresource Filter,/Users/yaniv/Library/Application Support/Comet,false
 support/container,252.0 KiB,252,/Users/yaniv/Library/Application Support,1,/Users/yaniv/Library/Application Support/com.github.macadmins.Nudge,,false
 support/container,252.0 KiB,252,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Microsoft Edge/Subresource Filter,/Users/yaniv/Library/Application Support/Microsoft Edge,false
@@ -356,7 +357,6 @@ cache-like,248.0 KiB,248,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Cach
 support/container,244.0 KiB,244,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Alfred/Databases,/Users/yaniv/Library/Application Support/Alfred,false
 cache-like,236.0 KiB,236,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/com.apple.AppleMediaServices/DynamicUI,/Users/yaniv/Library/Caches/com.apple.AppleMediaServices,false
 cache-like,236.0 KiB,236,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/com.apple.remindd,,false
-cache-like,232.0 KiB,232,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/company.thebrowser.dia/fsCachedData,/Users/yaniv/Library/Caches/company.thebrowser.dia,false
 cache-like,232.0 KiB,232,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/io.sentry/e17188c3e6e21ac851cb6a281682b7eaa56e757a,/Users/yaniv/Library/Caches/io.sentry,false
 cache-like,232.0 KiB,232,/Users/yaniv/Library/HTTPStorages,1,/Users/yaniv/Library/HTTPStorages/com.apple.jetpackassetd,,false
 cache-like,232.0 KiB,232,/Users/yaniv/Library/HTTPStorages,1,/Users/yaniv/Library/HTTPStorages/com.microsoft.VSCode,,false
@@ -389,6 +389,7 @@ support/container,176.0 KiB,176,/Users/yaniv/Library/Application Support,1,/User
 support/container,172.0 KiB,172,/Users/yaniv/Library/Group Containers,1,/Users/yaniv/Library/Group Containers/UBF8T346G9.OneDriveStandaloneSuite,,false
 cache-like,168.0 KiB,168,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/com.apple.accountsd,,false
 cache-like,168.0 KiB,168,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/com.apple.dataaccess.dataaccessd,,false
+cache-like,168.0 KiB,168,/Users/yaniv/Library/HTTPStorages,1,/Users/yaniv/Library/HTTPStorages/company.thebrowser.dia,,false
 cache-like,168.0 KiB,168,/Users/yaniv/Library/HTTPStorages,1,/Users/yaniv/Library/HTTPStorages/com.github.macadmins.Nudge,,false
 cache-like,168.0 KiB,168,/Users/yaniv/Library/HTTPStorages,1,/Users/yaniv/Library/HTTPStorages/MiniLauncher,,false
 cache-like,168.0 KiB,168,/Users/yaniv/Library/HTTPStorages,1,/Users/yaniv/Library/HTTPStorages/com.apple.assistant_service,,false
@@ -426,7 +427,6 @@ cache-like,116.0 KiB,116,/Users/yaniv/Library/HTTPStorages,1,/Users/yaniv/Librar
 support/container,116.0 KiB,116,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.ContactsUI.MonogramPosterExtension,,false
 support/container,108.0 KiB,108,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Microsoft Edge/Ad Blocking,/Users/yaniv/Library/Application Support/Microsoft Edge,false
 cache-like,104.0 KiB,104,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/OneDrive,,false
-cache-like,104.0 KiB,104,/Users/yaniv/Library/HTTPStorages,1,/Users/yaniv/Library/HTTPStorages/company.thebrowser.dia,,false
 cache-like,104.0 KiB,104,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/SonosV2/cache,/Users/yaniv/Library/Application Support/SonosV2,false
 support/container,104.0 KiB,104,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.Home.HomeWidget.Interactive,,false
 cache-like,100.0 KiB,100,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/.omb/metrics,/Users/yaniv/Library/Caches/.omb,false
@@ -684,7 +684,6 @@ support/container,28.0 KiB,28,/Users/yaniv/Library/Containers,1,/Users/yaniv/Lib
 support/container,28.0 KiB,28,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.windowmanager.ShowDesktopEducation,,false
 support/container,28.0 KiB,28,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.mcx.ProfileHelper,,false
 support/container,28.0 KiB,28,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.OSDUIHelper,,false
-cache-like,24.0 KiB,24,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/com.datadoghq/v2,/Users/yaniv/Library/Caches/com.datadoghq,false
 support/container,24.0 KiB,24,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/com.openai.atlas/system-hints-d16322da-45b7-4b7e-a1d9-318b0a3bff67,/Users/yaniv/Library/Application Support/com.openai.atlas,false
 support/container,24.0 KiB,24,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Codex/sentry,/Users/yaniv/Library/Application Support/Codex,false
 support/container,24.0 KiB,24,/Users/yaniv/Library/Application Support,1,/Users/yaniv/Library/Application Support/com.apple.NewDeviceOutreach,,false
@@ -698,6 +697,7 @@ support/container,24.0 KiB,24,/Users/yaniv/Library/Application Support,2,/Users/
 cache-like,24.0 KiB,24,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Arc/ArchiveSnapshotCache,/Users/yaniv/Library/Application Support/Arc,false
 support/container,24.0 KiB,24,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/iCloud/Accounts,/Users/yaniv/Library/Application Support/iCloud,false
 support/container,24.0 KiB,24,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.iBooksX.BooksThumbnail,,false
+support/container,24.0 KiB,24,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.QuickLookUIFramework.QLPreviewGenerationExtension,,false
 cache-like,20.0 KiB,20,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/com.todesktop.230313mzl4w4u92.ShipIt,,false
 cache-like,20.0 KiB,20,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/io.rancherdesktop.app.ShipIt,,false
 support/container,20.0 KiB,20,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/obs-studio/basic,/Users/yaniv/Library/Application Support/obs-studio,false
@@ -732,6 +732,7 @@ support/container,16.0 KiB,16,/Users/yaniv/Library/Application Support,2,/Users/
 support/container,16.0 KiB,16,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Comet/FileTypePolicies,/Users/yaniv/Library/Application Support/Comet,false
 support/container,16.0 KiB,16,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Comet/ProbabilisticRevealTokenRegistry,/Users/yaniv/Library/Application Support/Comet,false
 cache-like,16.0 KiB,16,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Code - Insiders/Code Cache,/Users/yaniv/Library/Application Support/Code - Insiders,false
+support/container,16.0 KiB,16,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Dia/Favicons,/Users/yaniv/Library/Application Support/Dia,false
 cache-like,16.0 KiB,16,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Slack/Code Cache,/Users/yaniv/Library/Application Support/Slack,false
 cache-like,12.0 KiB,12,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/com.tinyspeck.slackmacgap.ShipIt,,false
 cache-like,12.0 KiB,12,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/com.apple.VideoConference/logs,/Users/yaniv/Library/Caches/com.apple.VideoConference,false
@@ -748,7 +749,6 @@ support/container,12.0 KiB,12,/Users/yaniv/Library/Application Support,2,/Users/
 support/container,12.0 KiB,12,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Comet/AmountExtractionHeuristicRegexes,/Users/yaniv/Library/Application Support/Comet,false
 support/container,12.0 KiB,12,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/com.operasoftware.Opera/AmountExtractionHeuristicRegexes,/Users/yaniv/Library/Application Support/com.operasoftware.Opera,false
 support/container,12.0 KiB,12,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Microsoft Edge/Edge Data Protection Lists,/Users/yaniv/Library/Application Support/Microsoft Edge,false
-support/container,12.0 KiB,12,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/Dia/Favicons,/Users/yaniv/Library/Application Support/Dia,false
 support/container,12.0 KiB,12,/Users/yaniv/Library/Group Containers,1,/Users/yaniv/Library/Group Containers/UBF8T346G9.OfficeWordWidget,,false
 support/container,12.0 KiB,12,/Users/yaniv/Library/Group Containers,1,/Users/yaniv/Library/Group Containers/group.com.apple.fskit.settings,,false
 cache-like,8.0 KiB,8,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/com.openai.atlas/fsCachedData,/Users/yaniv/Library/Caches/com.openai.atlas,false
@@ -789,7 +789,9 @@ cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/c
 cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches,1,/Users/yaniv/Library/Caches/com.apple.DictionaryServices,,false
 cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/com.apple.AppleMediaServices/fpdi,/Users/yaniv/Library/Caches/com.apple.AppleMediaServices,false
 cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/.omb/devices,/Users/yaniv/Library/Caches/.omb,false
+cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/io.sentry/870deff1b008b4e3fa96d83955a0a195dff3e1d1,/Users/yaniv/Library/Caches/io.sentry,false
 cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/io.sentry/09e99d63755f0cddb4ad71f6b64d8365fd442912,/Users/yaniv/Library/Caches/io.sentry,false
+cache-like,4.0 KiB,4,/Users/yaniv/Library/Caches,2,/Users/yaniv/Library/Caches/com.datadoghq/v2,/Users/yaniv/Library/Caches/com.datadoghq,false
 cache-like,4.0 KiB,4,/Users/yaniv/Library/Logs,2,/Users/yaniv/Library/Logs/com.apple.AMPLibraryAgent/iTunes Migration,/Users/yaniv/Library/Logs/com.apple.AMPLibraryAgent,false
 support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support,2,/Users/yaniv/Library/Application Support/obs-studio/plugin_manager,/Users/yaniv/Library/Application Support/obs-studio,false
 support/container,4.0 KiB,4,/Users/yaniv/Library/Application Support,1,/Users/yaniv/Library/Application Support/google-heartbeat-storage,,false
@@ -1055,7 +1057,6 @@ support/container,4.0 KiB,4,/Users/yaniv/Library/Containers,1,/Users/yaniv/Libra
 support/container,4.0 KiB,4,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.ScreenSaver.Computer-Name,,false
 support/container,4.0 KiB,4,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.microsoft.Excel.widgetextension,,false
 support/container,4.0 KiB,4,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.ImagePlayground.NonUIExtension,,false
-support/container,4.0 KiB,4,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.QuickLookUIFramework.QLPreviewGenerationExtension,,false
 support/container,4.0 KiB,4,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.MarkupUI.MarkupPhotoExtension,,false
 support/container,4.0 KiB,4,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.dp.PrivateFederatedLearning.DPMLRuntimePluginNonDnU,,false
 support/container,4.0 KiB,4,/Users/yaniv/Library/Containers,1,/Users/yaniv/Library/Containers/com.apple.donotdisturb.DoNotDisturbAppIntents,,false
